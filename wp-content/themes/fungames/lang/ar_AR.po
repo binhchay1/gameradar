@@ -1,0 +1,1498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-12 16:57+0100\n"
+"PO-Revision-Date: 2012-03-14 21:04+0800\n"
+"Last-Translator: Admin <armomeaera@gmail.com>\n"
+"Language-Team: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: Z:\\wp-content\\themes\\fungames\n"
+
+#: Z:\wp-content\themes\fungames/sidebar.php:14
+msgid "This is your Game Sidebar and no widgets have been placed here, yet!"
+msgstr "لم يوضع اي شيء في شريط العابك الجانبي لحد الان "
+
+#: Z:\wp-content\themes\fungames/sidebar.php:28
+msgid "This is your Page Sidebar and no widgets have been placed here, yet!"
+msgstr "لم يوضع اي شيء في شريط صفحتك الجانبي الخاصه لحد الان"
+
+#: Z:\wp-content\themes\fungames/sidebar.php:42
+msgid "This is your Category Sidebar and no widgets have been placed here, yet!"
+msgstr "لم يوضع اي شيء في الشريط الجانبي الخاص بك لحد الان"
+
+#: Z:\wp-content\themes\fungames/sidebar.php:57
+msgid "This is your Home Sidebar and no widgets have been placed here, yet!"
+msgstr "لم يوضع اي شيء في الشريط الرئيسي الجانبي لحد الان"
+
+#: Z:\wp-content\themes\fungames/search.php:4
+msgid "Search Results"
+msgstr "نتائج البحث"
+
+#: Z:\wp-content\themes\fungames/search.php:9
+#: Z:\wp-content\themes\fungames/archive-contest.php:17
+msgid "Permanent Link to"
+msgstr "وصلة دائمة الى"
+
+#: Z:\wp-content\themes\fungames/search.php:33
+msgid "Play Now"
+msgstr "العب الآن"
+
+#: Z:\wp-content\themes\fungames/search.php:46
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "عذرا لا نستطيع فتح هذة اللعبة .ربما تعجبك  واحدة من هذة الالعاب"
+
+#: Z:\wp-content\themes\fungames/index-Horizontal.php:31
+#: Z:\wp-content\themes\fungames/related.php:2
+#: Z:\wp-content\themes\fungames/index-Full.php:39
+#: Z:\wp-content\themes\fungames/index-Half.php:39
+msgid "More Games"
+msgstr "العاب اخرى"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:31
+msgid "Read more about"
+msgstr "اقرأ المزيد عن"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:31
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:43
+msgid "Older posts &laquo;"
+msgstr "اقدم المشاركات"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:44
+msgid "&raquo; Newer posts"
+msgstr "احدث المشاركات"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:51
+msgid "Not Found"
+msgstr "غير موجود"
+
+#: Z:\wp-content\themes\fungames/archive-contest.php:54
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "عذرا.. بحثت عن شى غير موجود هنا "
+
+#: Z:\wp-content\themes\fungames/header.php:16
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: Z:\wp-content\themes\fungames/header.php:18
+msgid "Search results for"
+msgstr "نتائج البحث عن"
+
+#: Z:\wp-content\themes\fungames/header.php:34
+msgid "RSS Feed"
+msgstr "تغذية الاخبار"
+
+#: Z:\wp-content\themes\fungames/header.php:93
+msgid "Search For Games..."
+msgstr "البحث عن الالعاب"
+
+#: Z:\wp-content\themes\fungames/featured_slider.php:1
+msgid "Featured Games"
+msgstr "العاب مميزة"
+
+#: Z:\wp-content\themes\fungames/loginform.php:7
+msgid "Register, upload AVATAR, save SCORES, meet FRIENDS!"
+msgstr "سجل دخولك لتسريع عملية التحميل لديك .والتعرف على اصدقاء"
+
+#: Z:\wp-content\themes\fungames/loginform.php:10
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: Z:\wp-content\themes\fungames/loginform.php:14
+msgid "Password"
+msgstr "الباسورد"
+
+#: Z:\wp-content\themes\fungames/loginform.php:18
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: Z:\wp-content\themes\fungames/loginform.php:27
+msgid "Welcome back,"
+msgstr "اهلا بعودتك"
+
+#: Z:\wp-content\themes\fungames/loginform.php:36
+msgid "Activity Stream"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/loginform.php:36
+#: Z:\wp-content\themes\fungames/loginform.php:49
+msgid "Activity"
+msgstr "النشاط"
+
+#: Z:\wp-content\themes\fungames/loginform.php:38
+msgid "View Your Profile Page"
+msgstr "عرض صفحة الملف الشخصي"
+
+#: Z:\wp-content\themes\fungames/loginform.php:38
+#: Z:\wp-content\themes\fungames/loginform.php:54
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: Z:\wp-content\themes\fungames/loginform.php:40
+msgid "Change Your Settings"
+msgstr "تغيير الاعدادات"
+
+#: Z:\wp-content\themes\fungames/loginform.php:40
+msgid "Settings"
+msgstr "الاعدادات"
+
+#: Z:\wp-content\themes\fungames/loginform.php:42
+msgid "View Your Friends"
+msgstr "عرض اصدقائك"
+
+#: Z:\wp-content\themes\fungames/loginform.php:42
+msgid "Friends"
+msgstr "الاصدقاء"
+
+#: Z:\wp-content\themes\fungames/loginform.php:44
+msgid "Add New Friends"
+msgstr "اضافة صديق جديد"
+
+#: Z:\wp-content\themes\fungames/loginform.php:44
+msgid "Friend Requests"
+msgstr "طلب صديق"
+
+#: Z:\wp-content\themes\fungames/loginform.php:46
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
+#: Z:\wp-content\themes\fungames/loginform.php:51
+msgid "Members"
+msgstr "الأعضاء"
+
+#: Z:\wp-content\themes\fungames/loginform.php:57
+msgid "My Scores"
+msgstr "نتائجي"
+
+#: Z:\wp-content\themes\fungames/loginform.php:65
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: Z:\wp-content\themes\fungames/loginform.php:67
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: Z:\wp-content\themes\fungames/template-fullwidth.php:10
+msgid "You Are Here: "
+msgstr "انت هنا الآن :"
+
+#: Z:\wp-content\themes\fungames/template-fullwidth.php:34
+msgid "Read more.."
+msgstr "اقراء المزيد:"
+
+#: Z:\wp-content\themes\fungames/template-fullwidth.php:52
+msgid "Oops.. Nothing Found!"
+msgstr "عفوا لايوجد شئ هنا"
+
+#: Z:\wp-content\themes\fungames/template-fullwidth.php:56
+msgid "I think what you are looking for is not here or it has been moved. Please try a different search.."
+msgstr "اعتقد ان ما تبحث عنة غير موجود او قد تم نقلة . يرجى محاولة بحث مختلفة"
+
+#: Z:\wp-content\themes\fungames/functions.php:197
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:199
+msgid "The first footer widget area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:208
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:210
+msgid "The second footer widget area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:219
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:221
+msgid "The third footer widget area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:230
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:232
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/functions.php:279
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: Z:\wp-content\themes\fungames/searchform.php:4
+msgid "GO"
+msgstr "أذهب"
+
+#: Z:\wp-content\themes\fungames/template-fullscreen.php:46
+msgid "Go Back To"
+msgstr "الرجوع الى "
+
+#: Z:\wp-content\themes\fungames/archive.php:22
+#: Z:\wp-content\themes\fungames/archive.php:24
+#: Z:\wp-content\themes\fungames/archive.php:26
+msgid "Archive for"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/archive.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/archive.php:66
+msgid "Older games &laquo;"
+msgstr "الألعاب القديمة "
+
+#: Z:\wp-content\themes\fungames/archive.php:67
+msgid "&raquo; Newer games"
+msgstr "أحدث الألعاب"
+
+#: Z:\wp-content\themes\fungames/single.php:75
+msgid "Fullscreen"
+msgstr "ملء الشاشة"
+
+#: Z:\wp-content\themes\fungames/single.php:77
+msgid "Turn lights off / on"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/single.php:77
+msgid "Lights Toggle"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/single.php:112
+msgid "Game Stats"
+msgstr "احصائيات الألعاب"
+
+#: Z:\wp-content\themes\fungames/single.php:122
+msgid "Screen Shots"
+msgstr "التقط صوره للشاشة"
+
+#: Z:\wp-content\themes\fungames/single.php:132
+msgid "Game Tags"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/single.php:134
+msgid "Game Categories"
+msgstr "تصنيف الألعاب"
+
+#: Z:\wp-content\themes\fungames/single.php:163
+msgid "Do You Like This Game?"
+msgstr "أعجتك اللعبة ؟"
+
+#: Z:\wp-content\themes\fungames/single.php:164
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "تضمين هذه اللعبة على ماي سبيس الخاص بك أو على موقع الويب الخاص بك:"
+
+#: Z:\wp-content\themes\fungames/single.php:181
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "عذرا بحثت عن شيء غير موجود هنا . حاول البحث بطرق مختلفة"
+
+#: Z:\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "الرجاء عدم تحميل هذة الصفحة مباشرة ..شكرا"
+
+#: Z:\wp-content\themes\fungames/comments.php:7
+#: Z:\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "ادخل كلمه المرور لمشاهدة التعليقات"
+
+#: Z:\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr "لايوجد تعليق"
+
+#: Z:\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#: Z:\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr "٪ تعليقات"
+
+#: Z:\wp-content\themes\fungames/comments.php:34
+#: Z:\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/comments.php:47
+#: Z:\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: Z:\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr "لا يوجد أي تعليق"
+
+#: Z:\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr "تعليق واحد"
+
+#: Z:\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: Z:\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr "الى"
+
+#: Z:\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr "تعليق من قبل"
+
+#: Z:\wp-content\themes\fungames/comments.php:73
+#: Z:\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك بأنتظار الموافقة."
+
+#: Z:\wp-content\themes\fungames/comments.php:78
+msgid "Edit"
+msgstr "تحرير"
+
+#: Z:\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr "تعقيب"
+
+#: Z:\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/comments.php:135
+#: Z:\wp-content\themes\fungames/comments.php:137
+msgid "Leave a Reply"
+msgstr "ترك رد"
+
+#: Z:\wp-content\themes\fungames/comments.php:135
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "اترك رد لـ %s"
+
+#: Z:\wp-content\themes\fungames/comments.php:140
+msgid "You must be"
+msgstr "يجب أن تكون"
+
+#: Z:\wp-content\themes\fungames/comments.php:140
+msgid "logged in"
+msgstr "سجل في"
+
+#: Z:\wp-content\themes\fungames/comments.php:140
+msgid "to post a comment."
+msgstr ".لنشر تعليق"
+
+#: Z:\wp-content\themes\fungames/comments.php:144
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: Z:\wp-content\themes\fungames/comments.php:145
+msgid "Logged in as"
+msgstr "مسجل الدخول بـ"
+
+#: Z:\wp-content\themes\fungames/comments.php:148
+msgid "Name"
+msgstr "الاسم"
+
+#: Z:\wp-content\themes\fungames/comments.php:148
+#: Z:\wp-content\themes\fungames/comments.php:151
+msgid "(required)"
+msgstr "(مطلوب)"
+
+#: Z:\wp-content\themes\fungames/comments.php:151
+msgid "Mail (will not be published)"
+msgstr "البريد) لن يتم نشره)"
+
+#: Z:\wp-content\themes\fungames/comments.php:155
+msgid "Website"
+msgstr "الموقع"
+
+#: Z:\wp-content\themes\fungames/comments.php:162
+msgid "Submit Comment"
+msgstr "قدم تعليق"
+
+#: Z:\wp-content\themes\fungames/inc/myabp_themeoptions.php:27
+msgid "Primary Navigation"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/inc/myabp_themeoptions.php:28
+msgid "Footer Navigation"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/inc/myabp_themeoptions.php:115
+#: Z:\wp-content\themes\fungames/inc/myabp_themeoptions.php:191
+msgid "Theme Options"
+msgstr "خيارات الثيم"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:52
+msgid "Hello"
+msgstr "مرحبا"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:70
+msgid "Go to Dashboard"
+msgstr "الذهاب الى لوحة التحكم"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:71
+msgid "Edit My Profile"
+msgstr "تحرير الملف الشخصي"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:75
+msgid "Your Favorite Games"
+msgstr "العابك المفضله"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:88
+msgid "Login"
+msgstr "الدخول"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:104
+msgid "Register"
+msgstr "التسجيل"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:108
+msgid "Lost password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: Z:\wp-content\themes\fungames/inc/widgets/widget_user_panel.php:113
+msgid "Login with Facebook"
+msgstr "الدخول بواسطة"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:16
+msgid "User registration is currently not allowed."
+msgstr "التسجيل غير مسموح به حاليا"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:23
+msgid "Create an Account"
+msgstr "انشاء حساب"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:27
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr "التسجيل في هذا الموقع سهل، مجرد ملء الحقول أدناه وسوف تحصل على حساب جديد ."
+
+#: Z:\wp-content\themes\fungames/registration/register.php:35
+msgid "Account Details"
+msgstr "تفاصيل الحساب"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:41
+msgid "Email Address"
+msgstr "البريد الالكتروني"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:45
+msgid "Choose a Password"
+msgstr "ادخل كلمه مرور"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:49
+msgid "Confirm Password"
+msgstr "اعد كتابة كلمه المرور"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:65
+msgid "Profile Details"
+msgstr "تفاصيل الملف الشخصي"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:119
+msgid "Clear"
+msgstr "مسح"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:183
+msgid "Blog Details"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/registration/register.php:185
+msgid "Yes, I'd like to create a new site"
+msgstr "نعم, اود انشاء موقع جديد"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:189
+msgid "Blog URL"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/registration/register.php:198
+msgid "Site Title"
+msgstr "عنوان الموقع"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:202
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/registration/register.php:205
+msgid "Yes"
+msgstr "نعم"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:206
+msgid "No"
+msgstr "كلا"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:219
+msgid "Complete Sign Up"
+msgstr "اكتمل التسجيل"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:230
+msgid "Sign Up Complete!"
+msgstr "اكتمل التسجيل!"
+
+#: Z:\wp-content\themes\fungames/registration/register.php:236
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr "قد أنشأت حسابك بنجاح! للبدء في استخدام هذا الموقع سوف تحتاج إلى تنشيط حسابك عن طريق بريدك الإلكتروني."
+
+#: Z:\wp-content\themes\fungames/registration/register.php:238
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr " قد أنشأت حسابك بنجاح! الرجاء تسجيل الدخول باستخدام اسم المستخدم وكلمة السر التي قمت بإنشائها فقط."
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:12
+msgid "Account Activated"
+msgstr "حساب نشط"
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:17
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr "تم تفعيل حسابك بنجاح! تم ارسال تفاصيل حسابك لكم في رسالة إلكترونية منفصلة."
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:19
+msgid "Your account was activated successfully! You can now log in with the username and password you provided when you signed up."
+msgstr "تم تفعيل حسابك بنجاح! يمكنك الآن تسجيل الدخول باسم المستخدم وكلمة السر التي قدمتها عندما قمت بالتسجيل."
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:24
+msgid "Activate your Account"
+msgstr "تنشيط حسابك"
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:28
+msgid "Please provide a valid activation key."
+msgstr "يرجى تقديم مفتاح تشغيل صالح."
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:32
+msgid "Activation Key:"
+msgstr "مفتاح التفعيل"
+
+#: Z:\wp-content\themes\fungames/registration/activate.php:36
+msgid "Activate"
+msgstr "تفعيل"
+
+#: Z:\wp-content\themes\fungames/blogs/create.php:21
+#: Z:\wp-content\themes\fungames/blogs/index.php:23
+msgid "Create a Site"
+msgstr "إنشاء موقع"
+
+#: Z:\wp-content\themes\fungames/blogs/create.php:21
+#: Z:\wp-content\themes\fungames/blogs/index.php:23
+msgid "Site Directory"
+msgstr "دليل المواقع"
+
+#: Z:\wp-content\themes\fungames/blogs/create.php:32
+msgid "Site registration is currently disabled"
+msgstr "تسجيل موقع  معطل حاليا"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:35
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "جميع المواقع<span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:39
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "مواقعي <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:55
+#: Z:\wp-content\themes\fungames/groups/index.php:57
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:36
+msgid "Order By:"
+msgstr "ترتيب حسب:"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:57
+#: Z:\wp-content\themes\fungames/groups/index.php:59
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:38
+msgid "Last Active"
+msgstr "آخر نشاط"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:58
+msgid "Newest"
+msgstr "أحدث"
+
+#: Z:\wp-content\themes\fungames/blogs/index.php:59
+#: Z:\wp-content\themes\fungames/groups/index.php:62
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+#: Z:\wp-content\themes\fungames/blogs/blogs-loop.php:90
+msgid "Sorry, there were no sites found."
+msgstr "نأسف لاتوجد اى مواقع"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:18
+#: Z:\wp-content\themes\fungames/groups/index.php:23
+msgid "Create a Group"
+msgstr "اضافة مجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:18
+#: Z:\wp-content\themes\fungames/groups/index.php:23
+msgid "Groups Directory"
+msgstr "دليل المجموعات"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:39
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "(اسم المجموعة (مطلوب"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:42
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "(وصف  المجموعة (مطلوب "
+
+#: Z:\wp-content\themes\fungames/groups/create.php:62
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:69
+#, php-format
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:78
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "خيارات الخصوصية"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:82
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "هذة مجموعة عامة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:84
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "مجموعة متاحة للكل"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:85
+#: Z:\wp-content\themes\fungames/groups/create.php:94
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:64
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:74
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "سيتم إدراج هذه المجموعة في دليل المجموعات وفي نتائج البحث"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:86
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "نشاط  المجموعة مرئى للجميع"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:91
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "مجموعة خاصة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:93
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "الانضمام للمجموعه متاح للاعضاء فقط"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:95
+#: Z:\wp-content\themes\fungames/groups/create.php:104
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:75
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:85
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "محتوى ونشاط المجموعة متاح فقط  لأعضاء المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:100
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "مجموعة مخفية"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:102
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "الانضمام للمجموعه فقط للاعضاء الذين تتم دعوتهم"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:103
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:84
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "لن تكون هذه المجموعة مدرجة في دليل المجموعات أو نتائج البحث."
+
+#: Z:\wp-content\themes\fungames/groups/create.php:111
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "دعوات المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:113
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "مسموح لاعضاء المجموعة دعوة الاخرين"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:118
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:99
+msgid "All group members"
+msgstr "كل اعضاء المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:123
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:128
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:154
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:127
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "حمل صورة رمزية للمجموعة ...سيتم عرض الصورة على الصفحة الرئيسية للمجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:158
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "حمل صورة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:162
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:169
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:171
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:174
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr "معاينة الصورة الرمزية"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:177
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:216
+#: Z:\wp-content\themes\fungames/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr "اختر اشخاص لدعوتهم من قائمة اصدقائك"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:234
+#: Z:\wp-content\themes\fungames/groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr "ازالة الدعوة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:251
+#: Z:\wp-content\themes\fungames/groups/single/send-invites.php:73
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:273
+msgid "Back to Previous Step"
+msgstr "الرجوع الى الخطوة السابقة"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:280
+msgid "Next Step"
+msgstr "الخطوة التالية"
+
+#: Z:\wp-content\themes\fungames/groups/create.php:287
+msgid "Create Group and Continue"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/create.php:294
+msgid "Finish"
+msgstr "انتهاء"
+
+#: Z:\wp-content\themes\fungames/groups/index.php:37
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "جميع المجموعات <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/groups/index.php:41
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "مجموعاتي <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/groups/index.php:60
+msgid "Most Members"
+msgstr "معظم الأعضاء"
+
+#: Z:\wp-content\themes\fungames/groups/index.php:61
+msgid "Newly Created"
+msgstr "احدث الاضافات"
+
+#: Z:\wp-content\themes\fungames/groups/groups-loop.php:47
+#: Z:\wp-content\themes\fungames/groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr "نشط %s"
+
+#: Z:\wp-content\themes\fungames/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "لا يوجد اي مجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr "ارسل دعوات"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr "إخطار أعضاء المجموعة من التغييرات عبر البريد الإلكتروني"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:32
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:117
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:60
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:76
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:137
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "إذا كنت ترغب في إزالة الصورة الرمزية الموجودة دون تحميل صورة جديدة ، الرجاء استخدام زر حذف الصورة الرمزية."
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "حذف الصورة الرمزية"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "الإداريين"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:185
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:210
+#, php-format
+msgid "Profile picture of %s"
+msgstr "الصورة الشخصية لــ %s"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:189
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:215
+msgid "Demote to Member"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:203
+msgid "Moderators"
+msgstr "المشرفين"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:214
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:270
+msgid "Promote to Admin"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:258
+msgid "(banned)"
+msgstr "حظر"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:264
+msgid "Unban this member"
+msgstr "رفع الحظر عن هذا العضو"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:264
+msgid "Remove Ban"
+msgstr "ازالة الحظر"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:268
+msgid "Kick and ban this member"
+msgstr "حظر وطرد هذا العضو"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:268
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:269
+msgid "Promote to Mod"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:274
+msgid "Remove this member"
+msgstr "حذف هذا العضو"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:274
+msgid "Remove from group"
+msgstr "حذف من المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:288
+#: Z:\wp-content\themes\fungames/groups/single/members.php:87
+msgid "This group has no members."
+msgstr "لا اعضاء فى هذة المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:318
+msgid "Accept"
+msgstr "قبول"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:320
+msgid "Reject"
+msgstr "رفض"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:333
+msgid "There are no pending membership requests."
+msgstr "لاتوجد طلبات عضوية معلقة."
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:350
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr " حذف هذه المجموعة سوف يزيل كافة المحتويات المرتبطة بها. لا توجد وسيلة للرجوع لذا يرجى توخي الحذر مع هذا الخيار.تحذير"
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:353
+msgid "I understand the consequences of deleting this group."
+msgstr "أنا أفهم عواقب حذف هذه المجموعة."
+
+#: Z:\wp-content\themes\fungames/groups/single/admin.php:358
+msgid "Delete Group"
+msgstr "حذف المجموعة"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "موضوع جديد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:27
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:16
+msgid "Forum Directory"
+msgstr "دليل المنتدى"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:39
+msgid "Most Posts"
+msgstr "معظم المشاركات"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:40
+msgid "Unreplied"
+msgstr "لم يتم الرد علية"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "سوف تنظم الى الى هذه  عند اضافتك موضوع جديد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "موضوع جديد:"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:75
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:49
+msgid "Title:"
+msgstr "العنوان:"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:78
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:52
+msgid "Content:"
+msgstr "المحتوى:"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:81
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:55
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr "اضافة موضوع"
+
+#: Z:\wp-content\themes\fungames/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "قد طلبت ان تكون عضوا في هذه المجموعة  '%s'."
+
+#: Z:\wp-content\themes\fungames/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "(تعليق (اختياري"
+
+#: Z:\wp-content\themes\fungames/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "ارسل طلب"
+
+#: Z:\wp-content\themes\fungames/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "مسؤلين المجموعه"
+
+#: Z:\wp-content\themes\fungames/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:3
+msgid "RSS"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:8
+msgid "Show:"
+msgstr "عرض:"
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:10
+msgid "Everything"
+msgstr "كل شيء"
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:11
+msgid "Updates"
+msgstr "التحديثات"
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:14
+msgid "Forum Topics"
+msgstr "مواضيع المنتدى"
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:15
+msgid "Forum Replies"
+msgstr "مشاركات المنتدى"
+
+#: Z:\wp-content\themes\fungames/groups/single/activity.php:18
+msgid "Group Memberships"
+msgstr "مجموعة العضويات"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "رد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "تحرير:"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/edit.php:91
+msgid "This topic does not exist."
+msgstr "هذا الموضوع غير موجود."
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:12
+msgid "New Reply"
+msgstr "رد جديد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:35
+msgid "Topic tags:"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:126
+msgid "You will auto join this group when you reply to this topic."
+msgstr "سوف تنضم الى هذه المجموعة عند الرد على هذا الموضوع"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:131
+msgid "Add a reply:"
+msgstr "إضافة الرد:"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:136
+msgid "Post Reply"
+msgstr "رد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:147
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "تم غلق الموضوع، لايمكن اضافة رد"
+
+#: Z:\wp-content\themes\fungames/groups/single/forum/topic.php:161
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "ما الجديد في  %s, %s?"
+
+#: Z:\wp-content\themes\fungames/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "ما الجديد  %s?"
+
+#: Z:\wp-content\themes\fungames/activity/post-form.php:35
+msgid "Post Update"
+msgstr "بعد التحديث"
+
+#: Z:\wp-content\themes\fungames/activity/post-form.php:42
+msgid "Post in"
+msgstr "المشاركة في"
+
+#: Z:\wp-content\themes\fungames/activity/post-form.php:45
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+#: Z:\wp-content\themes\fungames/activity/comment.php:27
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/activity/comment.php:43
+msgid "Delete"
+msgstr "حذف"
+
+#: Z:\wp-content\themes\fungames/activity/activity-loop.php:41
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: Z:\wp-content\themes\fungames/activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/activity/index.php:23
+msgid "Site Activity"
+msgstr "نشاط الموقع"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:41
+msgid "The public activity for everyone on this site."
+msgstr "النشاط العام للجميع في هذا الموقع."
+
+#: Z:\wp-content\themes\fungames/activity/index.php:41
+#: Z:\wp-content\themes\fungames/members/index.php:35
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "جميع الاعضاء <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:51
+msgid "The activity of my friends only."
+msgstr "نشاط اصدقائي فقط"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:51
+#: Z:\wp-content\themes\fungames/members/index.php:39
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "اصدقائى <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:63
+msgid "The activity of groups I am a member of."
+msgstr "نشاطات المجموعات التى انتمي لها"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:73
+msgid "The activity I've marked as a favorite."
+msgstr "نشاطات المفضلات"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:73
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "مفضلاتي <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:79
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/activity/index.php:79
+msgid "Mentions"
+msgstr "مذكور"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:79
+#, php-format
+msgid "<span>%s new</span>"
+msgstr " جديد<span>%s </span>"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:101
+msgid "Posts"
+msgstr "المشاركات"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:102
+msgid "Comments"
+msgstr "تعليقات"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:115
+msgid "New Groups"
+msgstr "مجموعات جديده"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:122
+msgid "Friendships"
+msgstr "الصداقات"
+
+#: Z:\wp-content\themes\fungames/activity/index.php:126
+msgid "New Members"
+msgstr "اعضاء جدد"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:37
+msgid "In reply to: "
+msgstr "ردا على:"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr "عرض الموضوع / الرابط الثابت"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:37
+msgid "View"
+msgstr "عرض"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:60
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "تعليق <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:68
+msgid "Favorite"
+msgstr "مفضل"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:72
+msgid "Remove Favorite"
+msgstr "إزالة المفضل"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:104
+msgid "Post"
+msgstr "بعد"
+
+#: Z:\wp-content\themes\fungames/activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr " للإلغاء ESC أو اضغط  "
+
+#: Z:\wp-content\themes\fungames/members/index.php:23
+msgid "Members Directory"
+msgstr "دليل الاعضاء"
+
+#: Z:\wp-content\themes\fungames/members/index.php:58
+#: Z:\wp-content\themes\fungames/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr "عذرا، لم يتم العثور على اعضاء."
+
+#: Z:\wp-content\themes\fungames/members/single/settings/delete-account.php:50
+msgid "Delete Account"
+msgstr "حذف الحساب"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/delete-account.php:55
+msgid "WARNING: Deleting your account will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "تحذير: حذف حسابك سيزيل كافة المحتويات المرتبطة به. لا توجد وسيلة للرجوع لذلك يرجى توخي الحذر مع هذا الخيار."
+
+#: Z:\wp-content\themes\fungames/members/single/settings/delete-account.php:58
+msgid "I understand the consequences of deleting my account."
+msgstr "أنا أفهم عواقب حذف حسابي."
+
+#: Z:\wp-content\themes\fungames/members/single/settings/delete-account.php:63
+msgid "Delete My Account"
+msgstr "حذف حسابي"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/notifications.php:50
+msgid "Email Notification"
+msgstr "اخطار البريد الالكتروني"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/notifications.php:55
+msgid "Send a notification by email when:"
+msgstr "إرسال إعلام عن طريق البريد الإلكتروني في الحالات التالية"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:50
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:56
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:57
+msgid "Password Lost and Found"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:57
+msgid "Lost your password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:59
+msgid "Account Email"
+msgstr "حساب البريد الإلكتروني"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:62
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:63
+msgid "New Password"
+msgstr "كلمة مرور جديدة"
+
+#: Z:\wp-content\themes\fungames/members/single/settings/general.php:64
+msgid "Repeat New Password"
+msgstr "اعد كتابة كلمة المرور الجديدة"
+
+#: Z:\wp-content\themes\fungames/members/single/groups/invites.php:14
+#, php-format
+msgid "%s members"
+msgstr "الاعضاء %s"
+
+#: Z:\wp-content\themes\fungames/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "ليس لديك دعوات مجموعة"
+
+#: Z:\wp-content\themes\fungames/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "ليس لديك طلبات صداقه"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/notices-loop.php:31
+msgid "Sent:"
+msgstr "مرسل"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/notices-loop.php:38
+#: Z:\wp-content\themes\fungames/members/single/messages/messages-loop.php:50
+#: Z:\wp-content\themes\fungames/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr "حذف الرسالة"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/notices-loop.php:49
+msgid "Sorry, no notices were found."
+msgstr "عذرا، لم يتم العثور على إشعارات."
+
+#: Z:\wp-content\themes\fungames/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "(ارسل الى (اسم المستخدم او اسم صديقك"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "هذا إشعار لجميع المستخدمين."
+
+#: Z:\wp-content\themes\fungames/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "الموضوع"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "رسالة"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "ارسال رسالة"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/messages-loop.php:31
+msgid "From:"
+msgstr "من"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/messages-loop.php:36
+msgid "To:"
+msgstr "الى"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/messages-loop.php:42
+msgid "View Message"
+msgstr "عرض الرسالة"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/messages-loop.php:68
+msgid "Sorry, no messages were found."
+msgstr "لاتوجد رسالة نأسف"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "انت وحدك فى هذه المحادثة"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s and you."
+msgstr " وبينك %s  هذه المحادثة بين  "
+
+#: Z:\wp-content\themes\fungames/members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr "إرسال الرد"
+
+#: Z:\wp-content\themes\fungames/members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr "إرسال رد"
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr "تغير الصورة الرمزية"
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:7
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:14
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr " من جهازك الخاص ثم انقر تحميل الصورة للمضى قدماJPG ,GIF ,PNG  انقر أدناه لتحديد نوع الصورة "
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:23
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr "إذا كنت ترغب في حذف الصورة الرمزية الحالية الخاصة بك دون تحميل صوره جديده ، الرجاء استخدام زر حذف الصورة الرمزية."
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr "حذف صورتي الشخصية"
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr "حدد صورتك الرمزية"
+
+#: Z:\wp-content\themes\fungames/members/single/profile/change-avatar.php:55
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "الملف الشخصي  %s's "
+
+#: Z:\wp-content\themes\fungames/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "عني"
+
+#: Z:\wp-content\themes\fungames/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr "تحريرالملف الشخصي للمجموعة  '%s' "
+
+#: Z:\wp-content\themes\fungames/forums/index.php:23
+msgid "Forums Directory"
+msgstr "دليل المنتديات"
+
+#: Z:\wp-content\themes\fungames/forums/index.php:40
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "جميع المواضع <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/forums/index.php:44
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "مواضيعي <span>%s</span>"
+
+#: Z:\wp-content\themes\fungames/forums/index.php:100
+msgid "Create New Topic:"
+msgstr "انشاء موضوع جديد"
+
+#: Z:\wp-content\themes\fungames/forums/index.php:113
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/forums/index.php:116
+msgid "----"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/forums/index.php:134
+msgid "Cancel"
+msgstr "الغاء"
+
+#: Z:\wp-content\themes\fungames/forums/index.php:145
+#, php-format
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:39
+msgid "Topic"
+msgstr "موضوع"
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:41
+msgid "Freshness"
+msgstr "عذوبة"
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:54
+msgid "Permalink"
+msgstr ""
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:61
+#, php-format
+msgid "Started by %1$s"
+msgstr "بدأت بواسطة %1$s"
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:72
+#, php-format
+msgid "in %1$s"
+msgstr "في %1$s"
+
+#: Z:\wp-content\themes\fungames/forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr "نأسف لا توجد اى مواضيع"
+
+#: Z:\wp-content\themes\fungames/forums/single/topic.php:99
+#, php-format
+msgid "%s said %s ago:"
+msgstr ""
+

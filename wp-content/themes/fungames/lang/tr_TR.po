@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames v3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-21 22:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language-Team: Daniel B. <kontakt@netreview.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\fungames\n"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/404.php:10
+#: !!!\wp-content\themes\fungames/page.php:20
+#: !!!\wp-content\themes\fungames/search.php:61
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "Maalesef aradığınız oyun bulunamadı. Ama aradığınıza benzer oyunları listeledik:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:7
+msgid "You Are Here: "
+msgstr "Şu an buradasınız:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:22
+#: !!!\wp-content\themes\fungames/archive.php:24
+#: !!!\wp-content\themes\fungames/archive.php:26
+msgid "Archive for"
+msgstr "Arşiv sonuçları:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:28
+msgid "Author Archive"
+msgstr "Yazarın Arşivi"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:30
+msgid "Blog Archives"
+msgstr "Blog Arşivi"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:66
+msgid "Older games &laquo;"
+msgstr "Daha eski oyunlar &laquo;"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:67
+msgid "&raquo; Newer games"
+msgstr "&raquo; Daha yeni oyunlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:73
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:74
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Maalesef aradığınız şey bulunamadı."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lütfen bu sayfayı direk yüklemeyin. Teşekkürler!"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:7
+#: !!!\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Yorumları görebilmek için şifreyi girin."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr "Bu oyuna hiç yorum yapılmamış."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr "Bir yorum"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr "% yorum"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:34
+#: !!!\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr "Benzer Sayfalar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:47
+#: !!!\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr "Bu oyuna hiç yorum yapılmamış."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr "Bir yorum"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr "% yorum"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr "to"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr "Yazan"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:73
+#: !!!\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onaylandıktan sonra yayınlanacak."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:78
+msgid "Edit"
+msgstr "Düzenle"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr "Trackback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr "Pingback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#: !!!\wp-content\themes\fungames/comments.php:137
+msgid "Leave a Reply"
+msgstr "Yorum Yap"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s oyununa bir yorum yapın"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "You must be"
+msgstr "Yorum yapabilmek için"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "logged in"
+msgstr "giriş yapmış"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "to post a comment."
+msgstr "olmanız gerekiyor."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:144
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:145
+msgid "Logged in as"
+msgstr "Hoşgeldin, "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+msgid "Name"
+msgstr "İsim"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+#: !!!\wp-content\themes\fungames/comments.php:151
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:151
+msgid "Mail (will not be published)"
+msgstr "E-Posta Adresi (yayınlanmayacak)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:155
+msgid "Website"
+msgstr "Web Sitesi"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:162
+msgid "Submit Comment"
+msgstr "Yorumu Gönder"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/featured_slider.php:1
+msgid "Featured Games"
+msgstr "Sevilen Oyunlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/footer.php:5
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:221
+msgid "Primary Navigation"
+msgstr "İlk Gezinti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:222
+msgid "Footer Navigation"
+msgstr "Alt Gezinti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:345
+msgid "First Footer Widget Area"
+msgstr "İlk alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:347
+msgid "The first footer widget area"
+msgstr "İlk alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:356
+msgid "Second Footer Widget Area"
+msgstr "İkinci alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:358
+msgid "The second footer widget area"
+msgstr "İkinci alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:367
+msgid "Third Footer Widget Area"
+msgstr "Üçüncü alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:369
+msgid "The third footer widget area"
+msgstr "Üçüncü alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:378
+msgid "Fourth Footer Widget Area"
+msgstr "Dördüncü alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:380
+msgid "The fourth footer widget area"
+msgstr "Dördüncü alt eklenti alanı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:18
+msgid "Page not found"
+msgstr "Sayfa bulunamadı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:20
+msgid "Search results for"
+msgstr "Arama sonuçları: "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:25
+msgid "RSS Feed"
+msgstr "RSS Güncellemeleri"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:119
+msgid "Search For Games..."
+msgstr "Oyun Ara..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/index.php:61
+msgid "More Games"
+msgstr "Karışık Oyunlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:10
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:14
+msgid "Password"
+msgstr "Şifre"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:18
+msgid "Remember me"
+msgstr "Beni Hatırla"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:56
+msgid "Log in"
+msgstr "Giriş Yap"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/page.php:13
+msgid "Read more.."
+msgstr "Devamı..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:4
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:39
+msgid "Instructions"
+msgstr "Nasıl Oynanır?"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:44
+msgid "Tags"
+msgstr "Etiketler"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:45
+msgid "Game Categories"
+msgstr "Oyun Kategorileri"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:8
+msgid "Advertisement"
+msgstr "Tanıtım"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:31
+msgid "Sponsors"
+msgstr "Destekçiler"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:50
+msgid "Most Rated Games"
+msgstr "En Yüksek Yıldızı Olanlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:57
+msgid "Most Played Games"
+msgstr "En Çok Oynananlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:62
+msgid "Recent Comments"
+msgstr "Yeni Yorumlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:4
+#: !!!\wp-content\themes\fungames/sidebar1.php:8
+msgid "RSS"
+msgstr "RSS"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:27
+msgid "Archives"
+msgstr "Arşiv"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:34
+msgid "Meta"
+msgstr "Meta"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar2.php:5
+msgid "Newest Games"
+msgstr "Yeni Oyunlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:4
+msgid "Best Players"
+msgstr "En İyi Oyuncular"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:16
+msgid "Best Global Players"
+msgstr "Dünyadaki En İyi Oyuncular"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:24
+msgid "Todays Scores"
+msgstr "Bugünkü Yüksek Puanlar"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:32
+msgid "Latest 10 Scores"
+msgstr "Son 10 Yüksek Puan"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:39
+msgid "Top 10 Players"
+msgstr "En İyi 10 Oyuncu"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:53
+msgid "Top 10 Games"
+msgstr "En İyi 10 Oyun"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:69
+msgid "Tag Cloud"
+msgstr "Etiket Bulutu"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:82
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:107
+msgid "Do You Like This Game?"
+msgstr "Bu oyunu sevdiniz mi?"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:108
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "Bu oyunu sitenize ekleyin:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:152
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "Maalesef aradığınız şey bulunamadı. Farklı bir arama terimi deneyin."
+

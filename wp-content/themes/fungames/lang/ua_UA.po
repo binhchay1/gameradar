@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames v3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-21 22:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dmitriy <guy_dmitriy@yahoo.com>\n"
+"Language-Team: Daniel B. <kontakt@netreview.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\fungames\n"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/404.php:10
+#: !!!\wp-content\themes\fungames/page.php:20
+#: !!!\wp-content\themes\fungames/search.php:61
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "Вибачте, не можу знайти цю гру. Але може бути, вам подобається одна з цих ігор:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:7
+msgid "You Are Here: "
+msgstr "Ви тут:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:22
+#: !!!\wp-content\themes\fungames/archive.php:24
+#: !!!\wp-content\themes\fungames/archive.php:26
+msgid "Archive for"
+msgstr "Архів для"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:28
+msgid "Author Archive"
+msgstr "Автор Архіва"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:30
+msgid "Blog Archives"
+msgstr "Архіви Блога"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:66
+msgid "Older games &laquo;"
+msgstr "Старі ігри &laquo;"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:67
+msgid "&raquo; Newer games"
+msgstr "&raquo; Нові ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:73
+msgid "Not Found"
+msgstr "Не Знайдено"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:74
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Вибачте, але ви шукаєте що-небудь що тут немає."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Будь ласка, не завантажити цю сторінку безпосередньо. Спасибі!"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:7
+#: !!!\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Цей пост захищений паролем. Введіть пароль для перегляду коментарів."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr "Немає Коментарів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr "Один Комментарий"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:34
+#: !!!\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr "TrackBacks / PingBacks"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:47
+#: !!!\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr "Немає коментарів подано"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr "Один коментар"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr "% коментарі"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr "до"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr "Коментар від."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:73
+#: !!!\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує модерації."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:78
+msgid "Edit"
+msgstr "Edit"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr "Trackback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr "Pingback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#: !!!\wp-content\themes\fungames/comments.php:137
+msgid "Leave a Reply"
+msgstr "Залиште Відповідь"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Залиште Відповідь до %s"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "You must be"
+msgstr "Ви повинні бути"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "logged in"
+msgstr "увійшли в систему"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "to post a comment."
+msgstr "щоб залишити коментар."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:144
+msgid "Logout"
+msgstr "Вихід"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:145
+msgid "Logged in as"
+msgstr "Ви увійшли як"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+msgid "Name"
+msgstr "Ім'я"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+#: !!!\wp-content\themes\fungames/comments.php:151
+msgid "(required)"
+msgstr "(required)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:151
+msgid "Mail (will not be published)"
+msgstr "Пошта (не буде опублікована)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:155
+msgid "Website"
+msgstr "веб-сайт"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:162
+msgid "Submit Comment"
+msgstr "Додати Коментар"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/featured_slider.php:1
+msgid "Featured Games"
+msgstr "Популярні Ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/footer.php:5
+msgid "Home"
+msgstr "Дом"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:221
+msgid "Primary Navigation"
+msgstr "Основна Навігація"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:222
+msgid "Footer Navigation"
+msgstr "Нижня Навігація"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:345
+msgid "First Footer Widget Area"
+msgstr "Перший Нижній Колонтитул Віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:347
+msgid "The first footer widget area"
+msgstr "Перший нижній колонтитул віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:356
+msgid "Second Footer Widget Area"
+msgstr "Другий Нижній Колонтитул Віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:358
+msgid "The second footer widget area"
+msgstr "Другий нижній колонтитул віджета"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:367
+msgid "Third Footer Widget Area"
+msgstr "Третій Нижній Колонтитул Віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:369
+msgid "The third footer widget area"
+msgstr "Третій нижній колонтитул віджета"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:378
+msgid "Fourth Footer Widget Area"
+msgstr "Четвертий Нижній Колонтитул Віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:380
+msgid "The fourth footer widget area"
+msgstr "Четвертий нижній колонтитул віджетів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:18
+msgid "Page not found"
+msgstr "Сторінка не знайдена"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:20
+msgid "Search results for"
+msgstr "Результати пошуку"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:25
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:119
+msgid "Search For Games..."
+msgstr "Поиск Для Игр ..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/index.php:61
+msgid "More Games"
+msgstr "Більше Ігор"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:10
+msgid "Username"
+msgstr "Ім'я Користувача"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:14
+msgid "Password"
+msgstr "Пароль"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:18
+msgid "Remember me"
+msgstr "Запам'ятати мене"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:56
+msgid "Log in"
+msgstr "Увійти"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/page.php:13
+msgid "Read more.."
+msgstr "Прочитати більше ..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:4
+msgid "Search Results"
+msgstr "Результати Пошуку"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:39
+msgid "Instructions"
+msgstr "Інструкції"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:44
+msgid "Tags"
+msgstr "Теги"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:45
+msgid "Game Categories"
+msgstr "Ігрові Категорії"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:8
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:31
+msgid "Sponsors"
+msgstr "Спонсори"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:50
+msgid "Most Rated Games"
+msgstr "Самі Рейтингові Ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:57
+msgid "Most Played Games"
+msgstr "Найбільш Популярні Ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:62
+msgid "Recent Comments"
+msgstr "Останні Коментарі"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:4
+#: !!!\wp-content\themes\fungames/sidebar1.php:8
+msgid "RSS"
+msgstr "RSS"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:27
+msgid "Archives"
+msgstr "Архів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:34
+msgid "Meta"
+msgstr "Мета"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar2.php:5
+msgid "Newest Games"
+msgstr "Нові Ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:4
+msgid "Best Players"
+msgstr "Кращі Гравці"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:16
+msgid "Best Global Players"
+msgstr "Кращі Глобальні Гравці"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:24
+msgid "Todays Scores"
+msgstr "Сьогоднішні Результати"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:32
+msgid "Latest 10 Scores"
+msgstr "Останні 10 Балів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:39
+msgid "Top 10 Players"
+msgstr "Топ 10 Гравців"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:53
+msgid "Top 10 Games"
+msgstr "Топ 10 Ігри"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:69
+msgid "Tag Cloud"
+msgstr "Хмара Тегів"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:82
+msgid "Statistics"
+msgstr "Статистика"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:107
+msgid "Do You Like This Game?"
+msgstr "Вам Подобається Ця Гра?"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:108
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "Додати цю гру на MySpace або на сайт: цю гру на MySpace або на своєму сайті:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:152
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "Прошу Прощення, ви шукаєте що-небудь що тут немає. Спробуйте інший пошук."
+

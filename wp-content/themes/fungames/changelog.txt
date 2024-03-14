@@ -1,0 +1,286 @@
+v5.8.0 - 2020-10-27
+  * New - Automatic game resize to max available width/height
+  * New - Option to edit the footer copyright from the options panel
+  * Tweak - Escape all translatable strings
+  * Tweak - Updated BXSlider
+  * Tweak - Replaced Lazyload library
+  * Tweak - JS code improvements
+  * Fix - Can't add HTML/JS code at options panel fields
+  * Fix - Use of deprecated functions
+  * Fix - Removed unused code
+  * Fix - Don't prefix third-party assets
+  * Fix - Removed inline styles and scripts
+
+v5.7.1 - 2019-07-12
+  * Fix - Issue with displaying blog posts
+
+v5.7.0 - 2019-04-01
+  * New - TGMPA added, includes recommended & required plugins
+  * New - WooCommerce Support
+  * New - JSON LD Markup For Articles
+  * New - JSON LD Markup for Games
+  * New - Improved performance by removal of @import rule.
+  * Tweak - Fixed a number of theme check issues & moved code out of functions.php
+
+v5.6.0 - 2016-09-07
+  * New - WordPress 4.6 Compatibility
+  * New - Show proper title on BuddyPress pages when using Yoast SEO
+  * New - Fullscreen pages are now responsive
+  * New - Visual Editor for bbPress
+  * New - Better bbPress forums-index
+  * New - Theme Check Compliance
+  * Tweak - Comment form now fills the entire space and is responsive
+  * Tweak - Sorry MySpace!
+  * Tweak - Removed obsolete CubePoints files
+  * Tweak - Use get_template_directory() on includes to improve child theme compatibility
+  * Fix - Shows submit button on /activity/ page now when attempting to post
+  * Fix - Removed all useless schema
+  * Fix - Removes icon on bbPress notice
+  * Fix - Fixes search alignment on /members/ page
+  * Fix - BuddyPress user activity now displays properly on mobile
+  * Fix - Fixes user-login menu on mobile and tablet devices. (text was white on grey and unreadable)
+
+v5.5.0 - 2016-04-26
+  * New - WordPress 4.5 compatibility
+  * New - PHP 7 compatibility
+  * Tweak - Recommended Plugins: Replaced Lightbox Plugin with WP Lightbox 2
+
+v5.4.2 - 2016-02-22
+  * New - WordPress 4.4 compatibility
+
+v5.4.1 - 2015-06-30
+  * New - Option to disable related/random games
+
+v5.4.0 - 2015-04-19
+  * New - Replaced NivoSlider with BXSlider
+  * New - Lazy Load (Enable on settings page)
+  * New - Updated MyArcade API to v3.1.0
+  * New - Responsive progress loading bar
+  * Tweak - Removed Timthumb script
+  * Tweak - Removed Mingle support
+  * Fix - User Panel widget
+
+v5.3.1 - 2015-04-13
+  * New - NivoSlider updated to v3.2
+  * Fix - No games displayed if mobile games on mobile devices is enabled
+  * Fix - Logo not resized correctly
+  * Fix - Embed games not centered correctly
+
+v5.3.0 - 2015-04-09
+  * New - Display only mobile games on mobile devices (Enable on settings page)
+  * New - Restyled search widget
+  * Tweak - Changed game headings on archive pages from h4 to h2
+  * Tweak - Changed search page heading from h2 to h1
+  * Fix - CSS fixes
+
+v5.2.0 - 2015-03-30
+  * New - Theme requires WordPress 4.1 or higher
+  * New - H1 heading on single game page
+  * New - Show category description on archive pages (Enable on settings page)
+  * New - Show tag description on tag pages (Enable on settings page)
+  * New - Added additional Schema.org markup
+  * New - Centered footer widget area
+  * Tweak - Removed hard-coded <title> tag in the document head
+  * Tweak - Removed meta description / keywords. This should be managed by a SEO Plugin
+  * Tweak - Removed footer menu. Can be added with custom menu widget
+  * Tweak - Moved custom header code and favicon code to wp_head hook
+  * Tweak - Moved custom footer code to wp_footer hook
+  * Tweak - Removed Google jQuery CDN (Use a Plugin if you need this feature)
+  * Fix - Removed hard-coded register/login URLs
+  * Fix - Images on the belt slider not resized properly
+
+v5.1.0 - 2015-03-27
+  * New - Schema.org markup
+  * New - Back to top button
+  * New - Optimized CSS
+  * Fix - Nested menu items are not displayed
+  * Fix - Games not displayed properly
+  * Fix - Breadcrumb not displayed
+
+v5.0.0 - 2015-03-21
+  * New - Responsive design
+  * New - Updated MyArcade API to v3.0.0
+  * New - All images have been compressed to improve load time
+  * New - Fix redirect on YouTube widget to improve load time
+  * New - Breadcrumb NavXT added as recommended plugin
+  * New - Updated Shareholic integration
+  * New - Removed search form from header
+  * New - Updated translation files
+
+v4.8.1 - 2014-04-15
+  * Fix - Category selection on Random Games Widget (Game Scroller Widget)
+  * Fix - Fullscreen link
+  * Fix - Removed Mochi leaderboard bridge
+
+v4.8.0 - 2014-01-16
+  * New - Display game video on pre-game page
+  * New - BuddyPress 1.9.x compatibility
+  * New - Open Graph Meta Tag with game thumbnail
+  * New - Some CSS tweaks
+  * Fix - All strings are translatable
+  * Fix - Hide blog posts on game sortable box
+
+v4.7.1 - 2013-02-24
+  * New - Compatibility with Pay-To-Play (MyArcadePlugin v5.8.0 and above)
+
+v4.7.0 - 2012-10-03
+  * New - Game landing page (Pre-Game Page)
+  * New - Sortable Game Box (AJAX)
+  * New - Hall Of Fame - Best Player Box
+  * New - Contest front page box
+  * New - Contest Notifications on game play page
+  * New - Google Rich Snippets (WP-PostRatings Plugin required)
+  * New - Login form on all pages
+  * New - Login form can be deactivated from the theme options page
+  * New - Optimized options panel
+  * New - Option to deactivate Lights Switch
+  * New - Option to deactivate Fulls Screen feature
+  * New - Option to deactivate Favorite Button
+  * New - Option to have both sliders active at the same time
+  * New - Additional full width games box with filter option
+  * New - A lot of do_actions to make creation of child themes even easier
+  * New - Multi-Row Menu
+  * New - Ajaxed favorite button
+  * New - WordPress 3.5 compatibility
+  * New - Timthumb updated to 2.8.10
+  * Fix - Turn Lights Off / On optimized
+  * Fix - Heading on tag pages
+  * Fix - Login form color moved to CSS file
+  * Fix - Updated Ultimate Facebook integration
+
+v4.6.2 - 2012-04-25
+  * Fix - Comment reply link color
+
+v4.6.1 - 2012-03-15
+  * New - Template files for CubePoints Buddypress Integration Plugin
+  * Fix - Buddypress sign up page template
+
+v4.6.0 - 2012-03-10
+  * New - BuddyPress template enhancements
+  * New - Custom header code on the full screen page
+  * New - YARPP Support for related games
+  * New - Selectable game categories on Game Scroller Widget
+  * New - Multiple category selection for sliders
+  * New - Added compressed css files ( file size reduced by 31% )
+  * New - Added uncompressed css files for theme developers (css_dev folder)
+  * Fix - Custom header code can't be deactivated
+  * Fix - Custom footer code can't be deactivated
+
+v4.5.0 - 2012-02-14
+  * New - Added do_action calls on 404, index and archive pages for custom hooks
+  * New - Support for "WP SEO Content Manager" plugin
+  * New - Index Page Presentation: Miniclip Style
+  * New - Index Page Presentation: Full width with game descriptions
+  * New - Index Page Presentation: Half width with game descriptions
+  * New - MyArcadeContest archives template
+  * New - Full width page template
+  * New - Updated Buddypress template files
+  * New - Updated jQuery CDN Version to 1.7.1
+  * New - Improved function to retrieve post excerpt
+  * New - Language files: Bulagarian, Chinese, Dansk, Dutch, German, Greek, Esperanto, French, Italian, Maltese, Portuguese, Romanian, Russian, Turkish, Ukrainian
+  * New - Timthumb update to 2.8.7
+  * Fix - searchform.php notice for using wp_specialchars instead of esc_html
+
+v4.4.0 - 2012-01-12
+  * New - Display game screen shots on single game pages with Lightbox Plus support
+  * New - Featured image for blog posts
+  * New - Activate 150px space between game and Adsense to match AdSense TOS
+  * New - Exclude blog posts from related games list
+  * Fix - Excerpt not generated automatically
+  * Fix - Favicon fix
+  * Fix - Game description not displayed on 404 pages
+  * Fix - Theme Options permissions changed to manage_options
+  * Fix - Can't play some games when no blog category is assigned
+
+v4.3.0 - 2011-12-17
+  * New - Advertisement area for the index page in game category boxes like on fungames24.net
+  * New - Subcategory support for the Blog
+  * New - Support for Ultimate Facebook Plugin v1.6
+  * New - Template updated to the latest BuddyPress version
+  * Fix - Style sheets included in WordPress Backend (WP 3.3)
+  * Fix - Mingle forms now fit the design
+
+v4.2.0 - 2011-11-27
+  * New - Use post excerpt instead of game description custom field
+  * New - Option to add a custom text on the front page for SEO purpose or site description
+  * New - Improved Fullscreen - now IBPArcade scores will be stored, too.
+  * New - Option to activate jQuery loading from Google CDN to increase page speed
+
+v4.1.0 - 2011-10-29
+  * Fix - NivoSlider doesn't work on some sites
+  * Fix - Single Blog Template
+  * Fix - Hide categories that contain special characters
+
+v4.0.0 - 2011-08-02
+  * New - Flexible Sidebar position: left, right
+  * New - Fully widgetized sidebar
+  * New - Widget areas for: Home, Single, Category, Page
+  * New - Widget: Most Played Games
+  * New - Widget: Most Rated Games
+  * New - Widget: 125x125px Advertisements
+  * New - Widget: Embed Youtube Videos
+  * New - Widget: User Panel
+  * New - Widget: Global Mochi Scores
+  * New - Move Featured Games Slider to a Widget
+  * New - Option to enable auto scroll for the top slider
+  * New - WP Menu support for main navigation (with sub menus)
+  * New - WP Menu support for footer navigation
+  * New - Game pre-loader with advertisements
+  * New - Hide Category boxes on the front page without IDs
+  * New - Template for blog posts
+  * New - Favorite Post Plugin support
+  * New - Ultimate Facebook Plugin support
+  * New - WP-FB-AutoConnect support
+  * New - Sexy bookmarks Plugin support
+  * New - Fullscreen feature
+  * New - Turn lights off feature
+  * New - Nivo Slider
+  * New - Option to select how the games should be ordered on the front page (desc, random)
+
+v3.2.1 - 2011-03-29
+  * Fix - Close div error in loginform.php
+
+v3.2.0 - 2011-03-05
+  * New - Option to disable the displaying of default meta keywords and description
+  * Fix - Footer Code not working (e.g. Analytics Code)
+
+v3.1.0 - 2011-02-26
+  * Fix - Remove categories from the top navigation doesn't work
+  * Fix - Featured Games slider doesn't work with WordPress 3.1
+  * Fix - Text is not visible on pages at red, blue and pink color schemes
+
+v3.0.0 - 2010-12-18
+  * New - New look & feel for the theme settings
+  * New - 4 color variations that can be selected from the backend (Default, Red, Blue, Pink)
+  * New - Add custom header from the backend without touching the code
+  * New - Change the body background from the backend without touching the code
+  * New - Add a body background image from the backend without touching the code
+  * New - Based on the MyArcadeBlogThemes Theme API
+  * New - Option to exclude categories from the top menu
+  * New - Option to exclude category boxes from the front page
+  * New - Option to exclude pages from the footer menu
+  * New - Option to change the number of games in the featured slider
+  * New - Option to change the number of games per game box on the front page
+  * New - Option to change the alignment of the category boxes (vertical / horizontal)
+  * New - 4 widgets in the footer section added
+  * New - Replace the logo without touching the code
+  * New - Add meta keywords from the theme options
+  * New - Add meta description from the theme options
+  * New - Option to add custom header codes e.g. for Mochi verification
+  * New - Option to add custom footer codes e.g. Google Analytics Code
+  * New - Option to add your MyArcadePlugin affiliate link without touching the code
+
+v2.0.0 - 2010-06-06
+  * New - Buddypress templates
+  * Fix -   Removed HTML tags from description on index page
+
+v1.2.1 - 2010-05-01
+  * Edit: Moved the leaderboard code to the top
+  * Fix - Error on including the leaderboard code
+  * Fix - Sidebar alignment when comments are closed for unregistered users
+
+v1.2.0 - 2010-03-15
+  * New - New Sidebar (Top Sidebar)
+  * Fix - Sidebar 3 don't work
+  * Fix - Slider won't work when changing category slugs
+  * Fix - Missing translations

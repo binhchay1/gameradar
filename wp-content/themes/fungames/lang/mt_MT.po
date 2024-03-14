@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames v3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-21 22:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Silvy <silvy.m3976@live.com>\n"
+"Language-Team: Daniel B. <kontakt@netreview.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\fungames\n"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/404.php:10
+#: !!!\wp-content\themes\fungames/page.php:20
+#: !!!\wp-content\themes\fungames/search.php:61
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "Jiddispjacina. Ma nistawx insibu il-logħoba. Pero' jista jkun li Tinteressak waħda minn dawn il-logħob:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:7
+msgid "You Are Here: "
+msgstr "Int Qiegħed hawn:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:22
+#: !!!\wp-content\themes\fungames/archive.php:24
+#: !!!\wp-content\themes\fungames/archive.php:26
+msgid "Archive for"
+msgstr "Arkivju Għal"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:28
+msgid "Author Archive"
+msgstr "Arkivju għal Awtur"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:30
+msgid "Blog Archives"
+msgstr "Blog Arkivji"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:66
+msgid "Older games &laquo;"
+msgstr "Eqdem Logħob &laquo;"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:67
+msgid "&raquo; Newer games"
+msgstr "&raquo; Loghob Ricenti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:73
+msgid "Not Found"
+msgstr "Ma Nstabitx"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/archive.php:74
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Jiddispjacini, Izda qiegħed tfittex xi ħaga li mhix hawn."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Jekk Jogħoġbok Tollowdjax din il-paġna direttament. Grazzi !"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:7
+#: !!!\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Din il paġna hija protetta b' 'Password' .Dahhal il 'Password' biex tara l-kummenti. "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr "Ebda Kummenti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr "Kumment Wiehed"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr "% Kummenti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:34
+#: !!!\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr "TrackBacks / Pingbacks"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:47
+#: !!!\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr "Kummenti Maġħluqa."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr "Ebda Kummenti Preżentati"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr "Kumment Wiehed"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr "% Kummenti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr "għal"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr "Ikkumenta bil"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:73
+#: !!!\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Il-kumment tiegħek qiegħed jistenna biex jarah moderatur"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:78
+msgid "Edit"
+msgstr "Edit"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr "Trackback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr "Pingback"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#: !!!\wp-content\themes\fungames/comments.php:137
+msgid "Leave a Reply"
+msgstr "ħalli risposta"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:135
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "ħalli risposta lil %s"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "You must be"
+msgstr "Għandek / trid tkun"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "logged in"
+msgstr "Logged in"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:140
+msgid "to post a comment."
+msgstr "Biex tħalli kumment"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:144
+msgid "Logout"
+msgstr "Logout"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:145
+msgid "Logged in as"
+msgstr "Logged in bħala"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+msgid "Name"
+msgstr "Isem"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:148
+#: !!!\wp-content\themes\fungames/comments.php:151
+msgid "(required)"
+msgstr "(meħtieg)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:151
+msgid "Mail (will not be published)"
+msgstr "Posta (mhux ħa tkun pubblikata)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:155
+msgid "Website"
+msgstr "Websajt"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/comments.php:162
+msgid "Submit Comment"
+msgstr "Issottometti Kumment"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/featured_slider.php:1
+msgid "Featured Games"
+msgstr "L-Ahjar logħob "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/footer.php:5
+msgid "Home"
+msgstr "Home"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:221
+msgid "Primary Navigation"
+msgstr "Navigazzjoni Primarja"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:222
+msgid "Footer Navigation"
+msgstr "Navigazzjoni tal- 'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:345
+msgid "First Footer Widget Area"
+msgstr "L-ewwel Żona Tal 'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:347
+msgid "The first footer widget area"
+msgstr "L-ewwel  Żona Tal- 'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:356
+msgid "Second Footer Widget Area"
+msgstr "It-Tieni  Żona tal-'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:358
+msgid "The second footer widget area"
+msgstr "It-Tieni  Żona tal-'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:367
+msgid "Third Footer Widget Area"
+msgstr "It-Tielet  Żona tal-'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:369
+msgid "The third footer widget area"
+msgstr "It-Tielet  Żona tal-'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:378
+msgid "Fourth Footer Widget Area"
+msgstr "Ir-Raba  Żona Tal-'Footer'"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/functions.php:380
+msgid "The fourth footer widget area"
+msgstr "Ir-Raba  Żona tal-'Footer' "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:18
+msgid "Page not found"
+msgstr "Paġna Ma Nsabitx"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:20
+msgid "Search results for"
+msgstr "Fittex Riżultati ghall-"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:25
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/header.php:119
+msgid "Search For Games..."
+msgstr "Fittex għall-logħob..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/index.php:61
+msgid "More Games"
+msgstr "Iżjed Logħob"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:10
+msgid "Username"
+msgstr "Isem l-utent (Username)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:14
+msgid "Password"
+msgstr "Password"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:18
+msgid "Remember me"
+msgstr "Ftakarni"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/loginform.php:56
+msgid "Log in"
+msgstr "Alloġġ (Log in)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/page.php:13
+msgid "Read more.."
+msgstr "Aqra Iżjed..."
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:4
+msgid "Search Results"
+msgstr "Fittex Riżultati"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:39
+msgid "Instructions"
+msgstr "Istruzzjonijiet"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:44
+msgid "Tags"
+msgstr "Tags"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/search.php:45
+msgid "Game Categories"
+msgstr "Kategoriji Tal-logħob"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:8
+msgid "Advertisement"
+msgstr "Reklam"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:31
+msgid "Sponsors"
+msgstr "Isponsors"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:50
+msgid "Most Rated Games"
+msgstr "L-Iżjed Loghob Nominali (rated)"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:57
+msgid "Most Played Games"
+msgstr "L-Iżjed Logħob Li Intlgħab "
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar.php:62
+msgid "Recent Comments"
+msgstr "Kummenti Riċenti"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:4
+#: !!!\wp-content\themes\fungames/sidebar1.php:8
+msgid "RSS"
+msgstr "RSS"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:27
+msgid "Archives"
+msgstr "Arkivji"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar1.php:34
+msgid "Meta"
+msgstr "Metafora"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar2.php:5
+msgid "Newest Games"
+msgstr "Logħob Ġodda"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:4
+msgid "Best Players"
+msgstr "L-Aqwa Lagħaba"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:16
+msgid "Best Global Players"
+msgstr "L-Aqwa Lagħaba Globali"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:24
+msgid "Todays Scores"
+msgstr "Punteġġi Ta' LLum"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:32
+msgid "Latest 10 Scores"
+msgstr "L-Aħħar 10 Punteġġi"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:39
+msgid "Top 10 Players"
+msgstr "L-Aqwa 10 Lagħaba"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:53
+msgid "Top 10 Games"
+msgstr "L-Aqwa 10 Logħobiet"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/sidebar3.php:69
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:82
+msgid "Statistics"
+msgstr "Statitiċi"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:107
+msgid "Do You Like This Game?"
+msgstr "Togħoġbok Dil-Logħoba?"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:108
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "Daħħal dil-Logħoba fuq il- MySpace tiegħek jew fuq il-Websajt Tiegħek:"
+
+#: C:\Users\Daniel\Desktop\myarcade
+#: v4 rc1\MyArcadePlugin Pro v4.00\!!! UPLOAD
+#: FILES INSIDE !!!\wp-content\themes\fungames/single.php:152
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "Jiddispjacini, Qed Tfittex xi ħaġa li Mhix Qiegħda hawn. Prova Tfittxija Differenti."
+

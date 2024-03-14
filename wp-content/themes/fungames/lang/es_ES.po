@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FunGames v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-18 19:16+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language-Team: Daniel B. <kontakt@netreview.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: H:\\xampp\\htdocs\\wp\\wp-content\\themes\\fungames\n"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:6
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:7
+msgid "You Are Here: "
+msgstr "Estás aqui:"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:60
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/search.php:33
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:64
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:72
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/search.php:37
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:73
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/search.php:38
+msgid "Game Categories"
+msgstr "Categorías de juegos"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:83
+msgid "Do You Like This Game?"
+msgstr "Pónlo en tu web!"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:84
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "Pon este juego en tu web:"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:96
+msgid "More Games"
+msgstr "Más juegos"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:125
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:66
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/single.php:126
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "Disculpa. Estás buscando algo que no está aquí. Inténtalo con otra búsqueda."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:4
+msgid "Best Players"
+msgstr "Clasificación"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:11
+msgid "Best Global Players"
+msgstr "Top global de jugadores"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:18
+msgid "Todays Scores"
+msgstr "Puntuaciones del día"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:26
+msgid "Latest 10 Scores"
+msgstr "Últimas puntuaciones"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:33
+msgid "Top 10 Players"
+msgstr "Top 10 jugadores"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:44
+msgid "Top 10 Games"
+msgstr "Top 10 juegos"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar3.php:60
+msgid "Tag Cloud"
+msgstr "Nube de etiquetas"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar2.php:5
+msgid "Newest Games"
+msgstr "Novedades"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar1.php:4
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar1.php:8
+msgid "RSS"
+msgstr "RSS"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar1.php:27
+msgid "Archives"
+msgstr "Archivo"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar1.php:34
+msgid "Meta"
+msgstr "Meta"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar.php:12
+msgid "Featured Games"
+msgstr "Juegos destacados"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar.php:52
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar.php:71
+msgid "Most Rated Games"
+msgstr "Juegos más votados"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar.php:78
+msgid "Most Played Games"
+msgstr "Los más jugados"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/sidebar.php:83
+msgid "Recent Comments"
+msgstr "Últimos comentarios"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/search.php:4
+msgid "Search Results"
+msgstr "Resultado de la búsqueda"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/search.php:54
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/page.php:23
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/404.php:10
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "No ha sido posible encontrar ese juego, pero tal vez te guste alguno de los que te ponemos a continuación:"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/page.php:16
+msgid "Read more.."
+msgstr "Leer más..."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/header.php:16
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/header.php:18
+msgid "Search results for"
+msgstr "Resultados de"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/header.php:22
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/header.php:67
+msgid "Search For Games..."
+msgstr "Buscar juegos"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/footer.php:6
+msgid "Home"
+msgstr "Início"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:18
+msgid "Games"
+msgstr "Juegos"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:20
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:22
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:24
+msgid "Archive for"
+msgstr "Archivo de"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:26
+msgid "Author Archive"
+msgstr "Archivo del autor"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:28
+msgid "Blog Archives"
+msgstr "Archivo del blog"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/archive.php:67
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Disculpa, estás buscando algo que no está aquí."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor, no cargues esta página directamente. Gracias!"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:7
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este artículo está protegido por contraseña. Introduce la contraseña para ver los comentarios."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:29
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:29
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:29
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:34
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:93
+msgid "TrackBacks / PingBacks"
+msgstr "TrackBacks / PingBacks"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:47
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:122
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:67
+msgid "No comments filed"
+msgstr "Sin comentarios"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:67
+msgid "One comment"
+msgstr "Un comentario"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:67
+#, php-format
+msgid "% comments"
+msgstr "% comentarios"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:67
+msgid "to"
+msgstr "para"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:71
+msgid "Comment by"
+msgstr "Comentario por"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:73
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de aprobación por un administrador."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:103
+msgid "Trackback"
+msgstr "Trackback"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:105
+msgid "Pingback"
+msgstr "Pingback"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:135
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:137
+msgid "Leave a Reply"
+msgstr "¿Qué te ha parecido?"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:135
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:140
+msgid "You must be"
+msgstr "Debes estar"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:140
+msgid "logged in"
+msgstr "logueado"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:140
+msgid "to post a comment."
+msgstr "para enviar un comentario."
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:144
+msgid "Logout"
+msgstr "Salir"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:145
+msgid "Logged in as"
+msgstr "Iniciaste sesión como "
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:148
+msgid "Name"
+msgstr "Nombre"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:151
+msgid "Mail (will not be published)"
+msgstr "E-mail (no será publicado)"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:151
+msgid "(required)"
+msgstr "(requerido)"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/comments.php:155
+msgid "Website"
+msgstr "Sitio"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:7
+msgid "Login to submit your scores"
+msgstr "Identifícate para grabar tus puntuaciones"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:10
+msgid "Username"
+msgstr "ID de usuario"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:14
+msgid "Password"
+msgstr "Contraseña"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:18
+msgid "Remember me"
+msgstr "Recordar"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:21
+msgid "for free!"
+msgstr "gratis!"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:28
+msgid "Welcome back,"
+msgstr "Hola,"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:28
+msgid "Play some games to become the best player!"
+msgstr "Juega y conviértete en el mejor jugador"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:33
+msgid "Log in"
+msgstr "Entrar"
+
+#: H:\xampp\htdocs\wp\wp-content\themes\fungames/loginform.php:35
+msgid "Log out"
+msgstr "Salir"
+

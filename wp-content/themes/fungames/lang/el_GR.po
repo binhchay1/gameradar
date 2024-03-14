@@ -1,0 +1,1799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fungames v4.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-12-01 23:20+0000\n"
+"Last-Translator: Arcade-Planet <info@arcade-planet.gr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#: page.php:20
+#: search.php:46
+#@ fungames
+msgid "Sorry, Can't find that Game. But maybe you like one of these games:"
+msgstr "Συγνώμη, δεν έχει βρεθεί το παιχνίδι. Αλλά ίσως σας αρέσει ένα από αυτά τα παιχνίδια:"
+
+#: activity/activity-loop.php:27
+#@ buddypress
+msgid "Load More"
+msgstr ""
+
+#: activity/activity-loop.php:37
+#@ buddypress
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: activity/entry.php:28
+#@ buddypress
+msgid "Reply"
+msgstr ""
+
+#: activity/entry.php:33
+#@ buddypress
+msgid "Mark as Favorite"
+msgstr ""
+
+#: activity/entry.php:33
+#@ buddypress
+msgid "Favorite"
+msgstr ""
+
+#: activity/entry.php:35
+#@ buddypress
+msgid "Remove Favorite"
+msgstr ""
+
+#: activity/entry.php:45
+#@ buddypress
+msgid "In reply to"
+msgstr ""
+
+#: activity/entry.php:46
+#@ buddypress
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: activity/entry.php:46
+#@ buddypress
+msgid "View"
+msgstr ""
+
+#: activity/entry.php:63
+#@ buddypress
+msgid "Post"
+msgstr ""
+
+#: activity/entry.php:63
+#@ buddypress
+msgid "or press esc to cancel."
+msgstr ""
+
+#: activity/index.php:5
+#@ buddypress
+msgid "Site Activity"
+msgstr ""
+
+#: activity/index.php:20
+#@ buddypress
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: activity/index.php:20
+#: members/index.php:17
+#, php-format
+#@ buddypress
+msgid "All Members (%s)"
+msgstr ""
+
+#: activity/index.php:28
+#@ buddypress
+msgid "The activity of my friends only."
+msgstr ""
+
+#: activity/index.php:28
+#: members/index.php:20
+#, php-format
+#@ buddypress
+msgid "My Friends (%s)"
+msgstr ""
+
+#: activity/index.php:36
+#@ buddypress
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: activity/index.php:36
+#: groups/index.php:20
+#, php-format
+#@ buddypress
+msgid "My Groups (%s)"
+msgstr ""
+
+#: activity/index.php:43
+#@ buddypress
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: activity/index.php:43
+#, php-format
+#@ buddypress
+msgid "My Favorites (<span>%s</span>)"
+msgstr ""
+
+#: activity/index.php:48
+#@ buddypress
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: activity/index.php:48
+#, php-format
+#@ buddypress
+msgid "@%s Mentions"
+msgstr ""
+
+#: activity/index.php:48
+#, php-format
+#@ buddypress
+msgid "(%s new)"
+msgstr ""
+
+#: activity/index.php:58
+#: groups/single/activity.php:3
+#@ buddypress
+msgid "RSS"
+msgstr ""
+
+#: activity/index.php:64
+#: groups/single/activity.php:9
+#: members/single/activity.php:7
+#@ buddypress
+msgid "No Filter"
+msgstr ""
+
+#: activity/index.php:65
+#: groups/single/activity.php:10
+#: members/single/activity.php:8
+#@ buddypress
+msgid "Show Updates"
+msgstr ""
+
+#: activity/index.php:66
+#: members/single/activity.php:11
+#@ buddypress
+msgid "Show Blog Posts"
+msgstr ""
+
+#: activity/index.php:67
+#: members/single/activity.php:12
+#@ buddypress
+msgid "Show Blog Comments"
+msgstr ""
+
+#: activity/index.php:70
+#: groups/single/activity.php:13
+#: members/single/activity.php:20
+#@ buddypress
+msgid "Show New Forum Topics"
+msgstr ""
+
+#: activity/index.php:71
+#: groups/single/activity.php:14
+#: members/single/activity.php:21
+#@ buddypress
+msgid "Show Forum Replies"
+msgstr ""
+
+#: activity/index.php:75
+#: members/single/activity.php:25
+#@ buddypress
+msgid "Show New Groups"
+msgstr ""
+
+#: activity/index.php:76
+#: groups/single/activity.php:17
+#: members/single/activity.php:26
+#@ buddypress
+msgid "Show New Group Memberships"
+msgstr ""
+
+#: activity/index.php:80
+#: members/single/activity.php:15
+#@ buddypress
+msgid "Show Friendship Connections"
+msgstr ""
+
+#: activity/index.php:83
+#@ buddypress
+msgid "Show New Members"
+msgstr ""
+
+#: activity/post-form.php:7
+#, php-format
+#@ buddypress
+msgid "You are mentioning %s in a new update, this user will be sent a notification of your message."
+msgstr ""
+
+#: activity/post-form.php:19
+#, php-format
+#@ buddypress
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: activity/post-form.php:21
+#, php-format
+#@ buddypress
+msgid "What's new %s?"
+msgstr ""
+
+#: activity/post-form.php:33
+#@ buddypress
+msgid "Post Update"
+msgstr ""
+
+#: activity/post-form.php:38
+#@ buddypress
+msgid "Post in"
+msgstr ""
+
+#: activity/post-form.php:41
+#@ buddypress
+msgid "My Profile"
+msgstr ""
+
+#: archive.php:7
+#: breadcrumb.php:3
+#: template-blog-post.php:10
+#@ fungames
+msgid "You Are Here: "
+msgstr "Είστε εδώ:"
+
+#: archive.php:22
+#: archive.php:24
+#: archive.php:26
+#@ fungames
+msgid "Archive for"
+msgstr "Αρχείο για"
+
+#: archive.php:28
+#@ fungames
+msgid "Author Archive"
+msgstr "Συντάκτης αρχείου"
+
+#: archive.php:30
+#@ fungames
+msgid "Blog Archives"
+msgstr "Αρχεία Blog"
+
+#: archive.php:66
+#@ fungames
+msgid "Older games &laquo;"
+msgstr "Παλαιότερα παιχνίδια &laquo;"
+
+#: archive.php:67
+#@ fungames
+msgid "&raquo; Newer games"
+msgstr "&raquo; Νεώτερα παιχνίδια"
+
+#: archive.php:73
+#: single.php:184
+#: template-blog.php:46
+#@ fungames
+msgid "Not Found"
+msgstr "Δεν βρέθηκε"
+
+#: archive.php:74
+#: template-blog.php:49
+#@ fungames
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Συγνώμη, αλλά ψάχνετε κάτι που δεν είναι εδώ."
+
+#: blogs/blogs-loop.php:36
+#@ buddypress
+msgid "Visit Blog"
+msgstr ""
+
+#: blogs/blogs-loop.php:59
+#@ buddypress
+msgid "Sorry, there were no blogs found."
+msgstr ""
+
+#: blogs/create.php:10
+#: blogs/index.php:8
+#@ buddypress
+msgid "Create a Blog"
+msgstr ""
+
+#: blogs/create.php:10
+#: blogs/index.php:8
+#@ buddypress
+msgid "Blogs Directory"
+msgstr ""
+
+#: blogs/create.php:21
+#@ buddypress
+msgid "Blog registration is currently disabled"
+msgstr ""
+
+#: blogs/index.php:18
+#, php-format
+#@ buddypress
+msgid "All Blogs (%s)"
+msgstr ""
+
+#: blogs/index.php:21
+#, php-format
+#@ buddypress
+msgid "My Blogs (%s)"
+msgstr ""
+
+#: blogs/index.php:28
+#: forums/index.php:82
+#: groups/index.php:27
+#: members/index.php:27
+#: members/single/blogs.php:6
+#: members/single/friends.php:9
+#: members/single/groups.php:10
+#@ buddypress
+msgid "Order By:"
+msgstr ""
+
+#: blogs/index.php:30
+#: forums/index.php:84
+#: groups/index.php:29
+#: members/index.php:29
+#: members/single/blogs.php:8
+#: members/single/friends.php:11
+#: members/single/groups.php:12
+#@ buddypress
+msgid "Last Active"
+msgstr ""
+
+#: blogs/index.php:31
+#: members/single/blogs.php:9
+#@ buddypress
+msgid "Newest"
+msgstr ""
+
+#: blogs/index.php:32
+#: groups/index.php:32
+#: members/index.php:33
+#: members/single/blogs.php:10
+#: members/single/friends.php:13
+#: members/single/groups.php:15
+#@ buddypress
+msgid "Alphabetical"
+msgstr ""
+
+#: comments.php:3
+#@ fungames
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Παρακαλώ μην φορτώσετε αυτήν την σελίδα άμεσα. Ευχαριστώ!"
+
+#: comments.php:7
+#: comments.php:15
+#@ fungames
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Αυτό το θέμα έχει προστασία με κωδικό. Πληκτρολογήστε τον για να δείτε τα σχόλια."
+
+#: comments.php:29
+#@ fungames
+msgid "No Comments"
+msgstr "Κανένα σχόλιο"
+
+#: comments.php:29
+#@ fungames
+msgid "One Comment"
+msgstr "Ένα σχόλιο"
+
+#: comments.php:29
+#@ fungames
+msgid "% Comments"
+msgstr "% σχόλια"
+
+#: comments.php:34
+#: comments.php:93
+#@ fungames
+msgid "TrackBacks / PingBacks"
+msgstr "TrackBacks / PingBacks"
+
+#: comments.php:47
+#: comments.php:122
+#@ fungames
+msgid "Comments are closed."
+msgstr "Σχόλια κλειστά."
+
+#: comments.php:67
+#@ fungames
+msgid "No comments filed"
+msgstr "Δεν έχει προστεθεί σχόλιο"
+
+#: comments.php:67
+#@ fungames
+msgid "One comment"
+msgstr "Ένα σχόλιο"
+
+#: comments.php:67
+#@ fungames
+msgid "% comments"
+msgstr "% σχόλια"
+
+#: comments.php:67
+#@ fungames
+msgid "to"
+msgstr "σε"
+
+#: comments.php:71
+#@ fungames
+msgid "Comment by"
+msgstr "Σχόλιο από"
+
+#: comments.php:73
+#: comments.php:110
+#@ fungames
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας αναμένει συντονισμό."
+
+#: comments.php:78
+#@ fungames
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: comments.php:103
+#@ fungames
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:105
+#@ fungames
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments.php:135
+#: comments.php:137
+#@ fungames
+msgid "Leave a Reply"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: comments.php:135
+#, php-format
+#@ fungames
+msgid "Leave a Reply to %s"
+msgstr "Αφήστε σχόλιο σε %s"
+
+#: comments.php:140
+#@ fungames
+msgid "You must be"
+msgstr "Πρέπει να είστε"
+
+#: comments.php:140
+#@ fungames
+msgid "logged in"
+msgstr "συνδεδεμένος"
+
+#: comments.php:140
+#@ fungames
+msgid "to post a comment."
+msgstr "για να αφήσετε ένα σχόλιο."
+
+#: comments.php:144
+#: inc/widgets/widget_user_panel.php:42
+#@ fungames
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: comments.php:145
+#@ fungames
+msgid "Logged in as"
+msgstr "Συνδεδεμένος ως"
+
+#: comments.php:148
+#@ fungames
+msgid "Name"
+msgstr "Όνομα"
+
+#: comments.php:148
+#: comments.php:151
+#: groups/create.php:26
+#: groups/create.php:29
+#: members/single/profile/edit.php:23
+#: members/single/profile/edit.php:30
+#: members/single/profile/edit.php:37
+#: members/single/profile/edit.php:46
+#: members/single/profile/edit.php:56
+#: members/single/profile/edit.php:70
+#: members/single/profile/edit.php:80
+#: registration/register.php:28
+#: registration/register.php:32
+#: registration/register.php:36
+#: registration/register.php:40
+#: registration/register.php:67
+#: registration/register.php:75
+#: registration/register.php:83
+#: registration/register.php:93
+#: registration/register.php:104
+#: registration/register.php:119
+#: registration/register.php:130
+#: registration/register.php:179
+#: registration/register.php:188
+#@ fungames
+#@ buddypress
+msgid "(required)"
+msgstr "(απαιτείται)"
+
+#: comments.php:151
+#@ fungames
+msgid "Mail (will not be published)"
+msgstr "Ε-Mail (δεν δημοσιοποιείται)"
+
+#: comments.php:155
+#@ fungames
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+#: comments.php:162
+#@ fungames
+msgid "Submit Comment"
+msgstr "Υποβάλετε Σχόλιο"
+
+#: featured_slider.php:1
+#@ fungames
+msgid "Featured Games"
+msgstr "Προτεινόμενα Παιχνίδια"
+
+#: forums/forums-loop.php:7
+#: forums/index.php:9
+#@ buddypress
+msgid "New Topic"
+msgstr ""
+
+#: forums/forums-loop.php:24
+#@ buddypress
+msgid "Topic Title"
+msgstr ""
+
+#: forums/forums-loop.php:25
+#@ buddypress
+msgid "Latest Poster"
+msgstr ""
+
+#: forums/forums-loop.php:28
+#@ buddypress
+msgid "Posted In Group"
+msgstr ""
+
+#: forums/forums-loop.php:31
+#@ buddypress
+msgid "Posts"
+msgstr ""
+
+#: forums/forums-loop.php:32
+#@ buddypress
+msgid "Freshness"
+msgstr ""
+
+#: forums/forums-loop.php:39
+#@ buddypress
+msgid "Permalink"
+msgstr ""
+
+#: forums/forums-loop.php:76
+#@ buddypress
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: forums/index.php:9
+#@ buddypress
+msgid "Group Forums Directory"
+msgstr ""
+
+#: forums/index.php:26
+#: groups/single/forum.php:29
+#@ buddypress
+msgid "Post a New Topic:"
+msgstr ""
+
+#: forums/index.php:28
+#: groups/single/forum/edit.php:24
+#: groups/single/forum.php:31
+#@ buddypress
+msgid "Title:"
+msgstr ""
+
+#: forums/index.php:31
+#: groups/single/forum/edit.php:27
+#: groups/single/forum.php:34
+#@ buddypress
+msgid "Content:"
+msgstr ""
+
+#: forums/index.php:34
+#: groups/single/forum.php:37
+#@ buddypress
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: forums/index.php:37
+#@ buddypress
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: forums/index.php:49
+#: groups/single/forum.php:43
+#@ buddypress
+msgid "Post Topic"
+msgstr ""
+
+#: forums/index.php:50
+#@ buddypress
+msgid "Cancel"
+msgstr ""
+
+#: forums/index.php:60
+#, php-format
+#@ buddypress
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: forums/index.php:72
+#, php-format
+#@ buddypress
+msgid "All Topics (%s)"
+msgstr ""
+
+#: forums/index.php:75
+#, php-format
+#@ buddypress
+msgid "My Topics (%s)"
+msgstr ""
+
+#: forums/index.php:85
+#@ buddypress
+msgid "Most Posts"
+msgstr ""
+
+#: forums/index.php:86
+#@ buddypress
+msgid "Unreplied"
+msgstr ""
+
+#: fullscreen.php:92
+#@ fungames
+msgid "Go Back To"
+msgstr "Επιστρέψτε στο"
+
+#: functions.php:181
+#@ fungames
+msgid "First Footer Widget Area"
+msgstr "Πρώτης υποσελίδας περιοχή Widget"
+
+#: functions.php:183
+#@ fungames
+msgid "The first footer widget area"
+msgstr "Η πρώτη περιοχή Widget υποσελίδας"
+
+#: functions.php:192
+#@ fungames
+msgid "Second Footer Widget Area"
+msgstr "Δεύτερης υποσελίδας περιοχή Widget "
+
+#: functions.php:194
+#@ fungames
+msgid "The second footer widget area"
+msgstr "Η δεύτερη περιοχή Widget υποσελίδας"
+
+#: functions.php:203
+#@ fungames
+msgid "Third Footer Widget Area"
+msgstr "Τρίτης υποσελίδας περιοχή Widget "
+
+#: functions.php:205
+#@ fungames
+msgid "The third footer widget area"
+msgstr "Η τρίτη περιοχή Widget υποσελίδας"
+
+#: functions.php:214
+#@ fungames
+msgid "Fourth Footer Widget Area"
+msgstr "Τέταρτης υποσελίδας περιοχή Widget "
+
+#: functions.php:216
+#@ fungames
+msgid "The fourth footer widget area"
+msgstr "Η τέταρτη περιοχή Widget υποσελίδας"
+
+#: functions.php:244
+#@ fungames
+msgid "Home"
+msgstr "Αρχική"
+
+#: groups/create.php:7
+#: groups/index.php:7
+#@ buddypress
+msgid "Create a Group"
+msgstr ""
+
+#: groups/create.php:7
+#: groups/index.php:7
+#@ buddypress
+msgid "Groups Directory"
+msgstr ""
+
+#: groups/create.php:26
+#@ buddypress
+msgid "* Group Name"
+msgstr ""
+
+#: groups/create.php:29
+#@ buddypress
+msgid "* Group Description"
+msgstr ""
+
+#: groups/create.php:45
+#: groups/single/admin.php:45
+#@ buddypress
+msgid "Enable comment wire"
+msgstr ""
+
+#: groups/create.php:52
+#: groups/single/admin.php:55
+#@ buddypress
+msgid "Enable discussion forum"
+msgstr ""
+
+#: groups/create.php:57
+#, php-format
+#@ buddypress
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: groups/create.php:65
+#: groups/single/admin.php:64
+#@ buddypress
+msgid "Privacy Options"
+msgstr ""
+
+#: groups/create.php:69
+#: groups/single/admin.php:69
+#@ buddypress
+msgid "This is a public group"
+msgstr ""
+
+#: groups/create.php:71
+#: groups/single/admin.php:71
+#@ buddypress
+msgid "Any site member can join this group."
+msgstr ""
+
+#: groups/create.php:72
+#: groups/create.php:81
+#: groups/single/admin.php:72
+#: groups/single/admin.php:82
+#@ buddypress
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: groups/create.php:73
+#: groups/single/admin.php:73
+#@ buddypress
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: groups/create.php:78
+#: groups/single/admin.php:79
+#@ buddypress
+msgid "This is a private group"
+msgstr ""
+
+#: groups/create.php:80
+#: groups/single/admin.php:81
+#@ buddypress
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: groups/create.php:82
+#: groups/create.php:91
+#: groups/single/admin.php:83
+#: groups/single/admin.php:93
+#@ buddypress
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: groups/create.php:87
+#: groups/single/admin.php:89
+#@ buddypress
+msgid "This is a hidden group"
+msgstr ""
+
+#: groups/create.php:89
+#: groups/single/admin.php:91
+#@ buddypress
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: groups/create.php:90
+#: groups/single/admin.php:92
+#@ buddypress
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: groups/create.php:114
+#: groups/single/admin.php:110
+#@ buddypress
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: groups/create.php:118
+#: groups/single/admin.php:114
+#: members/single/profile/change-avatar.php:17
+#: registration/register.php:243
+#@ buddypress
+msgid "Upload Image"
+msgstr ""
+
+#: groups/create.php:122
+#@ buddypress
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: groups/create.php:129
+#@ buddypress
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: groups/create.php:131
+#: groups/single/admin.php:134
+#: members/single/profile/change-avatar.php:34
+#: registration/register.php:257
+#@ buddypress
+msgid "Avatar to crop"
+msgstr ""
+
+#: groups/create.php:134
+#: groups/single/admin.php:137
+#: members/single/profile/change-avatar.php:37
+#: registration/register.php:260
+#@ buddypress
+msgid "Avatar preview"
+msgstr ""
+
+#: groups/create.php:137
+#: groups/single/admin.php:140
+#: members/single/profile/change-avatar.php:40
+#: registration/register.php:263
+#@ buddypress
+msgid "Crop Image"
+msgstr ""
+
+#: groups/create.php:175
+#: groups/single/send-invites.php:22
+#@ buddypress
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: groups/create.php:191
+#: groups/single/send-invites.php:42
+#@ buddypress
+msgid "Remove Invite"
+msgstr ""
+
+#: groups/create.php:206
+#: groups/single/send-invites.php:72
+#@ buddypress
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: groups/create.php:224
+#@ buddypress
+msgid "Previous Step"
+msgstr ""
+
+#: groups/create.php:229
+#@ buddypress
+msgid "Next Step"
+msgstr ""
+
+#: groups/create.php:234
+#@ buddypress
+msgid "Create Group and Continue"
+msgstr ""
+
+#: groups/create.php:239
+#@ buddypress
+msgid "Finish"
+msgstr ""
+
+#: groups/groups-loop.php:29
+#: groups/single/group-header.php:31
+#, php-format
+#@ buddypress
+msgid "active %s ago"
+msgstr ""
+
+#: groups/groups-loop.php:57
+#@ buddypress
+msgid "There were no groups found."
+msgstr ""
+
+#: groups/index.php:17
+#, php-format
+#@ buddypress
+msgid "All Groups (%s)"
+msgstr ""
+
+#: groups/index.php:30
+#: members/single/groups.php:13
+#@ buddypress
+msgid "Most Members"
+msgstr ""
+
+#: groups/index.php:31
+#: members/single/groups.php:14
+#@ buddypress
+msgid "Newly Created"
+msgstr ""
+
+#: groups/single/admin.php:16
+#@ buddypress
+msgid "Group Name"
+msgstr ""
+
+#: groups/single/admin.php:19
+#@ buddypress
+msgid "Group Description"
+msgstr ""
+
+#: groups/single/admin.php:25
+#@ buddypress
+msgid "Notify group members of changes via email"
+msgstr ""
+
+#: groups/single/admin.php:26
+#: registration/register.php:195
+#@ buddypress
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: groups/single/admin.php:27
+#: registration/register.php:196
+#@ buddypress
+#@ default
+msgid "No"
+msgstr ""
+
+#: groups/single/admin.php:32
+#: groups/single/admin.php:100
+#: groups/single/forum/edit.php:32
+#: groups/single/forum/edit.php:50
+#: members/single/profile/edit.php:107
+#@ buddypress
+msgid "Save Changes"
+msgstr ""
+
+#: groups/single/admin.php:119
+#@ buddypress
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr ""
+
+#: groups/single/admin.php:122
+#: members/single/profile/change-avatar.php:23
+#@ buddypress
+msgid "Delete Avatar"
+msgstr ""
+
+#: groups/single/admin.php:132
+#@ buddypress
+msgid "Crop Avatar"
+msgstr ""
+
+#: groups/single/admin.php:160
+#@ buddypress
+msgid "Administrators"
+msgstr ""
+
+#: groups/single/admin.php:167
+#@ buddypress
+msgid "Moderators"
+msgstr ""
+
+#: groups/single/admin.php:174
+#: loginform.php:51
+#@ buddypress
+#@ fungames
+msgid "Members"
+msgstr "Μέλη"
+
+#: groups/single/admin.php:202
+#@ buddypress
+msgid "(banned)"
+msgstr ""
+
+#: groups/single/admin.php:202
+#: groups/single/admin.php:208
+#@ buddypress
+msgid "Kick and ban this member"
+msgstr ""
+
+#: groups/single/admin.php:202
+#@ buddypress
+msgid "Remove Ban"
+msgstr ""
+
+#: groups/single/admin.php:208
+#@ buddypress
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: groups/single/admin.php:208
+#@ buddypress
+msgid "Promote to Mod"
+msgstr ""
+
+#: groups/single/admin.php:208
+#@ buddypress
+msgid "Promote to Admin"
+msgstr ""
+
+#: groups/single/admin.php:221
+#: groups/single/members.php:51
+#@ buddypress
+msgid "This group has no members."
+msgstr ""
+
+#: groups/single/admin.php:252
+#: members/single/friends/requests.php:21
+#: members/single/groups/invites.php:20
+#@ buddypress
+msgid "Accept"
+msgstr ""
+
+#: groups/single/admin.php:258
+#: members/single/friends/requests.php:22
+#: members/single/groups/invites.php:21
+#@ buddypress
+msgid "Reject"
+msgstr ""
+
+#: groups/single/admin.php:272
+#@ buddypress
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: groups/single/admin.php:289
+#@ buddypress
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: groups/single/admin.php:292
+#@ buddypress
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: groups/single/admin.php:297
+#@ buddypress
+msgid "Delete Group"
+msgstr ""
+
+#: groups/single/forum/edit.php:7
+#: groups/single/forum/topic.php:19
+#@ buddypress
+msgid "Group Forum"
+msgstr ""
+
+#: groups/single/forum/edit.php:7
+#: groups/single/forum/topic.php:19
+#@ buddypress
+msgid "Group Forum Directory"
+msgstr ""
+
+#: groups/single/forum/edit.php:22
+#@ buddypress
+msgid "Edit Topic:"
+msgstr ""
+
+#: groups/single/forum/edit.php:44
+#@ buddypress
+msgid "Edit Post:"
+msgstr ""
+
+#: groups/single/forum/edit.php:65
+#@ buddypress
+msgid "This topic does not exist."
+msgstr ""
+
+#: groups/single/forum/topic.php:34
+#, php-format
+#@ buddypress
+msgid "%s said %s ago:"
+msgstr ""
+
+#: groups/single/forum/topic.php:45
+#@ buddypress
+msgid "Permanent link to this post"
+msgstr ""
+
+#: groups/single/forum/topic.php:74
+#@ buddypress
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: groups/single/forum/topic.php:79
+#@ buddypress
+msgid "Add a reply:"
+msgstr ""
+
+#: groups/single/forum/topic.php:84
+#@ buddypress
+msgid "Post Reply"
+msgstr ""
+
+#: groups/single/forum/topic.php:95
+#@ buddypress
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: groups/single/forum/topic.php:108
+#@ buddypress
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: groups/single/forum.php:25
+#@ buddypress
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: groups/single/group-header.php:6
+#@ buddypress
+msgid "Group Admins"
+msgstr ""
+
+#: groups/single/group-header.php:14
+#@ buddypress
+msgid "Group Mods"
+msgstr ""
+
+#: groups/single/request-membership.php:4
+#, php-format
+#@ buddypress
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: groups/single/request-membership.php:7
+#@ buddypress
+msgid "Comments (optional)"
+msgstr ""
+
+#: groups/single/request-membership.php:12
+#@ buddypress
+msgid "Send Request"
+msgstr ""
+
+#: groups/single/send-invites.php:60
+#@ buddypress
+msgid "Send Invites"
+msgstr ""
+
+#: header.php:16
+#@ fungames
+msgid "Page not found"
+msgstr "Η σελίδα δεν βρέθηκε"
+
+#: header.php:18
+#@ fungames
+msgid "Search results for"
+msgstr "Αποτελέσματα αναζήτησης για"
+
+#: header.php:29
+#@ fungames
+msgid "RSS Feed"
+msgstr "Ροή Ειδήσεων"
+
+#: header.php:88
+#@ fungames
+msgid "Search For Games..."
+msgstr "Αναζήτηση παιχνιδιών..."
+
+#: inc/myabp_themeoptions.php:27
+#@ fungames
+msgid "Primary Navigation"
+msgstr "Αρχική πλοήγηση"
+
+#: inc/myabp_themeoptions.php:28
+#@ fungames
+msgid "Footer Navigation"
+msgstr "Πλοήγηση Υποσελίδας"
+
+#: inc/myabp_themeoptions.php:112
+#: inc/myabp_themeoptions.php:188
+#@ default
+msgid "Theme Options"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:42
+#@ fungames
+msgid "Hello"
+msgstr "Γεια σου"
+
+#: inc/widgets/widget_user_panel.php:53
+#: loginform.php:36
+#: loginform.php:49
+#@ fungames
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+#: inc/widgets/widget_user_panel.php:54
+#: loginform.php:38
+#: loginform.php:54
+#@ fungames
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: inc/widgets/widget_user_panel.php:55
+#: loginform.php:40
+#@ fungames
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: inc/widgets/widget_user_panel.php:56
+#: loginform.php:42
+#@ fungames
+msgid "Friends"
+msgstr "Φίλοι"
+
+#: inc/widgets/widget_user_panel.php:57
+#: loginform.php:44
+#@ fungames
+msgid "Friend Requests"
+msgstr "Αιτήματα φίλων"
+
+#: inc/widgets/widget_user_panel.php:58
+#: loginform.php:46
+#@ fungames
+msgid "Inbox"
+msgstr "Inbox"
+
+#: inc/widgets/widget_user_panel.php:60
+#@ fungames
+msgid "Go to Dashboard"
+msgstr "Πήγαινε στον πίνακα ελέγχου"
+
+#: inc/widgets/widget_user_panel.php:61
+#@ fungames
+msgid "Edit My Profile"
+msgstr "Επεξεργασία του προφίλ μου"
+
+#: inc/widgets/widget_user_panel.php:65
+#@ fungames
+msgid "Your Favorite Games"
+msgstr "Τα αγαπημένα σου παιχνίδια "
+
+#: inc/widgets/widget_user_panel.php:78
+#@ fungames
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: inc/widgets/widget_user_panel.php:94
+#@ fungames
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: inc/widgets/widget_user_panel.php:98
+#@ fungames
+msgid "Lost password?"
+msgstr "Χαμένος κωδικός πρόσβασης;"
+
+#: inc/widgets/widget_user_panel.php:103
+#@ wdfb
+msgid "Login with Facebook"
+msgstr ""
+
+#: index.php:70
+#: single.php:155
+#@ fungames
+msgid "More Games"
+msgstr "Περισσότερα "
+
+#: loginform.php:7
+#@ fungames
+msgid "Register, upload AVATAR, save SCORES, meet FRIENDS!"
+msgstr "Γίνε μέλος, ανέβασε AVATAR, αποθήκευσε το σκορ, βρες φίλους !"
+
+#: loginform.php:10
+#: registration/register.php:28
+#@ default
+#@ buddypress
+msgid "Username"
+msgstr ""
+
+#: loginform.php:14
+#@ default
+msgid "Password"
+msgstr ""
+
+#: loginform.php:18
+#@ default
+msgid "Remember me"
+msgstr ""
+
+#: loginform.php:27
+#@ fungames
+msgid "Welcome back,"
+msgstr "Καλώς ήρθες και πάλι,"
+
+#: loginform.php:36
+#@ fungames
+msgid "Activity Stream"
+msgstr "Ρεύμα δραστηριότητας"
+
+#: loginform.php:38
+#@ fungames
+msgid "View Your Profile Page"
+msgstr "Δείτε τη σελίδα του προφίλ σας"
+
+#: loginform.php:40
+#@ fungames
+msgid "Change Your Settings"
+msgstr "Αλλάξτε τις ρυθμίσεις σας"
+
+#: loginform.php:42
+#@ fungames
+msgid "View Your Friends"
+msgstr "Δείτε τους φίλους σας"
+
+#: loginform.php:44
+#@ fungames
+msgid "Add New Friends"
+msgstr "Προσθέστε νέους φίλους"
+
+#: loginform.php:56
+#@ fungames
+msgid "My Scores"
+msgstr "Το σκορ μου"
+
+#: loginform.php:63
+#@ default
+msgid "Log in"
+msgstr ""
+
+#: loginform.php:65
+#@ fungames
+msgid "Log out"
+msgstr "Αποσύνδεση"
+
+#: members/index.php:7
+#@ buddypress
+msgid "Members Directory"
+msgstr ""
+
+#: members/index.php:30
+#: members/single/friends.php:12
+#@ buddypress
+msgid "Newest Registered"
+msgstr ""
+
+#: members/members-loop.php:70
+#@ buddypress
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: members/single/friends/requests.php:36
+#@ buddypress
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: members/single/groups/invites.php:11
+#, php-format
+#@ buddypress
+msgid "%s members"
+msgstr ""
+
+#: members/single/groups/invites.php:34
+#@ buddypress
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: members/single/member-header.php:30
+#@ buddypress
+msgid "Mention this user in a new public message, this will send the user a notification to get their attention."
+msgstr ""
+
+#: members/single/member-header.php:30
+#@ buddypress
+msgid "Mention this User"
+msgstr ""
+
+#: members/single/member-header.php:36
+#@ buddypress
+msgid "Send a private message to this user."
+msgstr ""
+
+#: members/single/member-header.php:36
+#@ buddypress
+msgid "Send Private Message"
+msgstr ""
+
+#: members/single/messages/compose.php:5
+#@ buddypress
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: members/single/messages/compose.php:14
+#@ buddypress
+msgid "This is a notice to all users."
+msgstr ""
+
+#: members/single/messages/compose.php:17
+#@ buddypress
+msgid "Subject"
+msgstr ""
+
+#: members/single/messages/compose.php:20
+#@ buddypress
+msgid "Message"
+msgstr ""
+
+#: members/single/messages/compose.php:28
+#@ buddypress
+msgid "Send Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:31
+#@ buddypress
+msgid "From:"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:36
+#@ buddypress
+msgid "To:"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:42
+#@ buddypress
+msgid "View Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:50
+#: members/single/messages/notices-loop.php:38
+#@ buddypress
+msgid "Delete Message"
+msgstr ""
+
+#: members/single/messages/messages-loop.php:68
+#@ buddypress
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: members/single/messages/notices-loop.php:31
+#@ buddypress
+msgid "Sent:"
+msgstr ""
+
+#: members/single/messages/notices-loop.php:49
+#@ buddypress
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: members/single/messages/single.php:11
+#, php-format
+#@ buddypress
+msgid "Sent between %s and %s"
+msgstr ""
+
+#: members/single/messages/single.php:63
+#@ buddypress
+msgid "Send a Reply"
+msgstr ""
+
+#: members/single/messages/single.php:79
+#@ buddypress
+msgid "Send Reply"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:1
+#@ buddypress
+msgid "Change Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:7
+#@ buddypress
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:13
+#@ buddypress
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:22
+#@ buddypress
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr ""
+
+#: members/single/profile/change-avatar.php:23
+#@ buddypress
+msgid "Delete My Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:32
+#: registration/register.php:255
+#@ buddypress
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: members/single/profile/change-avatar.php:56
+#@ buddypress
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr ""
+
+#: members/single/profile/edit.php:9
+#, php-format
+#@ buddypress
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: members/single/profile/edit.php:61
+#: registration/register.php:110
+#@ buddypress
+msgid "Clear"
+msgstr ""
+
+#: page.php:13
+#: template-blog-post.php:34
+#@ fungames
+msgid "Read more.."
+msgstr "Διαβάστε περισσότερα.."
+
+#: registration/activate.php:16
+#@ buddypress
+msgid "Account Activated"
+msgstr ""
+
+#: registration/activate.php:21
+#@ buddypress
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr ""
+
+#: registration/activate.php:23
+#@ buddypress
+msgid "Your account was activated successfully! You can now log in with the username and password you provided when you signed up."
+msgstr ""
+
+#: registration/activate.php:28
+#@ buddypress
+msgid "Activate your Account"
+msgstr ""
+
+#: registration/activate.php:32
+#@ buddypress
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: registration/activate.php:36
+#@ buddypress
+msgid "Activation Key:"
+msgstr ""
+
+#: registration/activate.php:40
+#@ buddypress
+msgid "Activate"
+msgstr ""
+
+#: registration/register.php:14
+#@ buddypress
+msgid "Create an Account"
+msgstr ""
+
+#: registration/register.php:18
+#@ buddypress
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr ""
+
+#: registration/register.php:26
+#@ buddypress
+msgid "Account Details"
+msgstr ""
+
+#: registration/register.php:32
+#@ buddypress
+msgid "Email Address"
+msgstr ""
+
+#: registration/register.php:36
+#@ buddypress
+msgid "Choose a Password"
+msgstr ""
+
+#: registration/register.php:40
+#@ buddypress
+msgid "Confirm Password"
+msgstr ""
+
+#: registration/register.php:56
+#@ buddypress
+msgid "Profile Details"
+msgstr ""
+
+#: registration/register.php:173
+#@ buddypress
+msgid "Blog Details"
+msgstr ""
+
+#: registration/register.php:175
+#@ buddypress
+msgid "Yes, I'd like to create a new blog"
+msgstr ""
+
+#: registration/register.php:179
+#@ buddypress
+msgid "Blog URL"
+msgstr ""
+
+#: registration/register.php:188
+#@ buddypress
+msgid "Blog Title"
+msgstr ""
+
+#: registration/register.php:192
+#@ buddypress
+msgid "I would like my blog to appear in search engines, and in public listings around this site"
+msgstr ""
+
+#: registration/register.php:209
+#@ buddypress
+msgid "Complete Sign Up"
+msgstr ""
+
+#: registration/register.php:220
+#@ buddypress
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: registration/register.php:225
+#@ buddypress
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr ""
+
+#: registration/register.php:227
+#@ buddypress
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr ""
+
+#: registration/register.php:234
+#@ buddypress
+msgid "Your Current Avatar"
+msgstr ""
+
+#: registration/register.php:235
+#@ buddypress
+msgid "We've fetched an avatar for your new account. If you'd like to change this, why not upload a new one?"
+msgstr ""
+
+#: search.php:4
+#@ fungames
+msgid "Search Results"
+msgstr "Αποτελέσματα αναζήτησης"
+
+#: search.php:9
+#: template-blog.php:20
+#@ fungames
+msgid "Permanent Link to"
+msgstr "Μόνιμη σύνδεση με"
+
+#: search.php:33
+#@ fungames
+msgid "Play Now"
+msgstr "Παίξτε τώρα"
+
+#: searchform.php:4
+#@ fungames
+msgid "GO"
+msgstr "ΠΗΓΑΙΝΕΤΕ"
+
+#: sidebar.php:14
+#@ fungames
+msgid "This is your Game Sidebar and no widgets have been placed here, yet!"
+msgstr "Αυτή είναι η πλαϊνή μπάρα παιχνιδιών σας και κανένα widgets δεν έχει τοποθετηθεί εδώ!"
+
+#: sidebar.php:28
+#@ fungames
+msgid "This is your Page Sidebar and no widgets have been placed here, yet!"
+msgstr "Αυτή είναι η πλαϊνή μπάρα σελίδας και κανένα widgets δεν έχει τοποθετηθεί εδώ!"
+
+#: sidebar.php:42
+#@ fungames
+msgid "This is your Category Sidebar and no widgets have been placed here, yet!"
+msgstr "Αυτή είναι η πλαϊνή μπάρα κατηγορίας και κανένα widgets δεν έχει τοποθετηθεί εδώ!"
+
+#: sidebar.php:57
+#@ fungames
+msgid "This is your Home Sidebar and no widgets have been placed here, yet!"
+msgstr "Αυτή είναι η πλαϊνή μπάρα αρχικής σελίδας και κανένα widgets δεν έχει τοποθετηθεί εδώ!"
+
+#: single.php:70
+#@ fungames
+msgid "Fullscreen"
+msgstr "Μέγιστη οθόνη"
+
+#: single.php:72
+#@ fungames
+msgid "Turn lights off / on"
+msgstr "Γυρίστε τα φώτα ανοιχτά / κλειστά"
+
+#: single.php:72
+#@ fungames
+msgid "Lights Toggle"
+msgstr "Διακόπτης φώτων"
+
+#: single.php:107
+#@ fungames
+msgid "Game Stats"
+msgstr "Σημείο παιχνιδιού"
+
+#: single.php:121
+#@ fungames
+msgid "Game Tags"
+msgstr "Ετικέττες παιχνιδιών"
+
+#: single.php:123
+#@ fungames
+msgid "Game Categories"
+msgstr "Κατηγορίες παιχνιδιών"
+
+#: single.php:141
+#@ fungames
+msgid "Do You Like This Game?"
+msgstr "Σας αρέσει αυτό το παιχνίδι;"
+
+#: single.php:142
+#@ fungames
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr "Ενσωματώστε αυτό το παιχνίδι στο MySpace ή στην ιστοσελίδα σας:"
+
+#: single.php:185
+#@ fungames
+msgid "I'm Sorry, you are looking for something that is not here. Try a different search."
+msgstr "Συγνώμη, ψάχνετε κάτι που δεν είναι εδώ. Δοκιμάστε μια διαφορετική αναζήτηση."
+
+#: template-blog-post.php:51
+#@ fungames
+msgid "Oops.. Nothing Found!"
+msgstr "Ουπς. Τίποτα δεν βρέθηκε!"
+
+#: template-blog-post.php:55
+#@ fungames
+msgid "I think what you are looking for is not here or it has been moved. Please try a different search.."
+msgstr "Νομίζω πως ψάχνετε κάτι που δεν είναι εδώ ή έχει μετακινηθεί. Παρακαλώ δοκιμάστε μια διαφορετική αναζήτηση."
+
+#: template-blog.php:26
+#@ fungames
+msgid "Read more about"
+msgstr "Διαβάστε περισσότερα σχετικά"
+
+#: template-blog.php:26
+#@ fungames
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: template-blog.php:38
+#@ fungames
+msgid "Older posts &laquo;"
+msgstr "Παλαιότερα θέματα &laquo;"
+
+#: template-blog.php:39
+#@ fungames
+msgid "&raquo; Newer posts"
+msgstr "&raquo; Νεώτερα θέματα"
+

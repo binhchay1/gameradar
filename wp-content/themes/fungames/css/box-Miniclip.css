@@ -1,0 +1,63 @@
+.gamebox {
+  width: 100%;
+  padding:10px 5px;
+  margin:0 3px 10px;
+  height: auto !important;
+}
+
+.gamebox h2 {
+  overflow:hidden;
+  margin:0 0 5px;
+  padding:5px 0 0 10px;
+}
+
+.games-ul {
+  list-style-type:none;
+  padding:0 0 0 10px;
+  width: 100%;
+}
+
+.games-ul li {
+  background:url("../images/arrow.png") no-repeat 0 1px;
+  display:block;
+  margin:5px 0 0;
+  padding:0 0 0 20px;
+}
+
+.gamebox .thumb_link,.gamebox .thumb_link img {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing:border-box;
+}
+
+.gamebox .thumb_link {
+  display: block;
+  position: relative;
+  padding-top: 100%;
+}
+
+.gamebox .thumb_link img {
+  position:absolute;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+}
+
+.game_title  {
+  width:50%;
+  margin:0;
+  padding:5px;
+}
+
+@media screen and (min-width:550px) {
+  .gamebox {
+    width:calc(50% - 6px);
+  }
+}
+
+@media screen and (min-width:750px) {
+  .gamebox {
+    width:calc(33.33333333333333% - 6px);
+  }
+}

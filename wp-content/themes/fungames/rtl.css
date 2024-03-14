@@ -1,0 +1,61 @@
+/*
+Theme Name:  Fungames
+Description:  RTL Support for FunGames Theme
+*/
+#wrapper { direction: rtl; }
+.blogname { 
+  float: right;
+}
+.blogname h1  {
+  text-align: right;
+  margin: 17px 25px 0 0;
+}
+.blogname h2 {
+  margin: 2px 30px 0px 0px;
+  text-align: right;
+}
+#headbanner {
+  float: left;
+  margin-right:  0px;
+  margin-left:   10px;
+}
+
+#menu ul li {
+  float:  right;
+}
+#loginbox {
+  padding-right:  10px;
+  padding-left: 0;
+}
+#catmenu ul {
+  float:  right;
+}
+#catmenu li {
+  float:  right;
+} 
+#catmenu li ul ul {
+  margin:  -32px 170ox 0 0;
+}
+#catmenu li:hover ul, #catmenu li li:hover ul, 
+#catmenu li li li:hover ul, #catmenu li.fghover ul, 
+#catmenu li li.fghover ul, #catmenu li li li.fghover ul {
+  right:  auto;
+}
+#content {
+ direction: rtl;
+}
+.title{
+  margin:  0 0 0 0px;
+  padding:  0px 0px 5px 10px;
+}  
+.game_title {
+  float:  left;
+  margin:  0 0 0 5px;
+  padding:  0px 0px 0px 0px;  
+}
+.sidebar h2 {
+  padding: 0 5px 0 0;
+}
+#sidebarright { padding: 0 0px 10px 0;}
+.stepcarousel { margin: 0px 35px 0px 14px; }
+.widgetimage { margin: 0 10px 5px 0; }

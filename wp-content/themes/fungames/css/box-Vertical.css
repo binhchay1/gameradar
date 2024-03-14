@@ -1,0 +1,51 @@
+.gamebox {
+  width: 100%;
+  padding:10px 5px;
+  margin:0 3px 10px;
+  height: auto !important;
+  padding-bottom:10px;
+}
+
+.gamebox h2 {
+  overflow:hidden;
+  margin:0 0 5px;
+  padding:5px 0 0 10px;
+}
+
+.gamebox .thumb_link,.gamebox .thumb_link img {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing:border-box;
+}
+
+.gamebox .thumb_link {
+  display: block;
+  position: relative;
+  padding-top:100%;
+}
+
+.gamebox .thumb_link img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height:100%;
+}
+
+.game_title {
+  padding:5px;
+  margin-left: 0;
+  width: 50%;
+}
+
+@media screen and (min-width:400px) {
+  .gamebox {
+    width: calc(50% - 6px);
+  };
+}
+
+@media screen and (min-width:600px) {
+  .gamebox {
+    width: calc(33.33333333333333% - 6px);
+  };
+}

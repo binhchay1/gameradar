@@ -1,0 +1,409 @@
+body {
+  background:#fff url(../images/body_bg_red.png) repeat-x;
+  color:#6B0F0B;
+}
+
+a {
+  color:#6B0F0B;
+}
+
+a:hover {
+  color:#C00;
+}
+
+blockquote {
+  color:#31333F;
+  border-left:2px solid #07A0E3;
+}
+
+img.alignnone,img.alignright,img.alignleft {
+  background:#fff;
+  border:1px solid #DDD;
+}
+
+.wp-caption {
+  border:1px solid #DDD;
+  background-color:#fff;
+}
+
+#wrapper {
+  border-left:1px solid #c00;
+  border-right:1px solid #c00;
+}
+
+.topad {
+  background:#535A5F;
+}
+
+.blogname h1 a:hover {
+  color:#eee;
+}
+
+.blogname h2 {
+  color:#343434;
+}
+#loginbox {
+  background:#d4d4d4;
+  color:#000;
+  border-bottom:1px solid #b7b7b7;
+}
+
+#loginbox a:hover {
+  color:#e40b16;
+}
+
+#catcontainer {
+  background:#94C8DF;
+  border-top:1px solid #b7b7b7;
+}
+
+#catmenu {
+  background:#d4d4d4;
+}
+
+#catmenu li a:hover,#catmenu li a:active {
+  background-color:#b7b7b7;
+  color:#000;
+}
+
+#catmenu li li a,#catmenu li li a:link,#catmenu li li a:visited {
+  background:#b7b7b7;
+  color:#000;
+  border-bottom:1px solid #50585f;
+  border-left:1px solid #50585f;
+  border-right:1px solid #50585f;
+}
+
+#catmenu li li a:hover,#catmenu li li a:active {
+  background:#FCDAD2;
+  color:#000;
+}
+
+#play_game>* {
+  background:#FCDAD2;
+  border:2px solid #731328;
+}
+
+.favoritos {
+  background:url(../images/sprite_red.png) 0 -200px no-repeat;
+}
+
+.favoritos:hover {
+  background:url(../images/sprite_red.png) 0 -240px no-repeat;
+}
+
+.fullscreen {
+  background:url(../images/sprite_red.png) 0 -120px no-repeat;
+}
+
+.fullscreen:hover {
+  background:url(../images/sprite_red.png) 0 -160px no-repeat;
+}
+
+.lightSwitch {
+  background:url(../images/sprite_red.png) 0 0 no-repeat;
+}
+
+.lightSwitch:hover {
+  background:url(../images/sprite_red.png) 0 -80px no-repeat;
+}
+
+.turnedOff {
+  background:url(../images/sprite_red.png) 0 -40px no-repeat;
+}
+
+.date {
+  color:#75481F;
+}
+
+.cat_view {
+  color:#504945;
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #fe846f;
+}
+
+.cat_link {
+  background:url(../images/more.png) no-repeat 0 0;
+  background-position:right;
+}
+
+.singlepage {
+  color:#333;
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #ccc;
+}
+
+.entry a:link,.entry a:visited {
+  color:#AC0604;
+  background-color:transparent;
+}
+
+.entry a:hover {
+  color:#455236;
+  background-color:transparent;
+}
+
+.related h3 {
+  color:#07577F;
+}
+
+.related ul li a:hover {
+  color:#0A7CAF;
+}
+
+.sidebar {
+  color:#2676A1;
+}
+
+.sidebar ul li a:link,.sidebar ul li a:visited {
+  color:#333;
+}
+
+.widgetad {
+  border:1px solid #535A5F;
+}
+
+fieldset#loginBox form label input {
+  border:1px dotted #555;
+  color:#535353;
+}
+
+#footbar {
+  border-top:1px solid #fcdad2;
+}
+
+h2.pagetitle {
+  color:#4A413C;
+}
+
+.post {
+  background:#ebe1d2;
+  border:1px solid #ded5c9;
+  color:#6c5b42;
+}
+
+.post img {
+  background:#fff;
+  border:1px solid #ddd;
+}
+
+#respond {
+  background:#fff;
+  border:1px solid #DEDCDD;
+}
+
+#respond h3 {
+  color:#444;
+}
+
+#commentform {
+  color:#BFAFA7;
+}
+
+#commentform p {
+  color:#3f79c4;
+}
+
+.comments input#submit {
+  background-color:#0083DB;
+  border:2px solid #005F9F;
+  color:#fff;
+}
+
+ol.commentlist li {
+  border:1px solid #DEDCDD;
+}
+
+div.vcard img.avatar {
+  border:5px solid #ddd;
+}
+
+ol.commentlist li div.comment-meta a {
+  color:#0083DB;
+}
+
+ol.commentlist li p {
+  color:#546C88;
+}
+
+#cancel-comment-reply-link {
+  color:#fff;
+  background:#778F9F;
+  border:2px solid #666;
+}
+
+ol.commentlist li.even {
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #D1D8DF;
+}
+
+ol.commentlist li.odd {
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #ddd;
+}
+
+.stepcarousel .panel {
+  background:#FFE5DF;
+  border:1px solid #000;
+}
+
+.stepcarousel .panel img {
+  background:#fff;
+}
+
+#postlist ul {
+  border:none;
+  background-color:transparent;
+}
+
+#postlist li {
+  background-color:#FFE5DF;
+  border:1px solid #6b0f0b;
+}
+
+#postlist li img {
+  background:#EFEFEF;
+  border:1px solid #c00;
+}
+
+.widgets {
+  background:#FFF;
+  border:1px solid #ccc;
+}
+
+.widgets a:hover {
+  color:#009;
+}
+
+.contentbox {
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #c00;
+}
+
+#fgpage,#top {
+  background-color:#FFF2EF;
+}
+
+.blogname h1,.blogname h1 a:link,.blogname h1 a:visited {
+  color:#cacccd;
+}
+
+#menu ul li a,#menu ul li a:hover,#menu.current_page_item a,#gamelist ul,ol.commentlist li div.vcard cite.fn a.url,ol.commentlist li div.vcard cite.fn a.url:hover,ol.commentlist li div.comment-meta a:hover {
+  color:#000;
+}
+
+#loginbox a,#catmenu li a,#catmenu li a:link,#catmenu li a:visited {
+  color:#6b0f0b;
+}
+
+#content h1,#content .gamebox h2,#content .gamebox h2 a,.game_title a,.sidebar ul li a:hover,.stepcarousel .panel h2 a:visited,.stepcarousel .panel h2 a:link,#postlist li span,#postlist li a,#postlist li .fcats a:link,#postlist li .fcats a:visited,#postlist li .auth {
+  color:#c00;
+}
+
+.game_title img,.entry img,.moregames,.moregames img {
+  border:2px solid #ccc;
+}
+
+.game_title img:hover,.entry img:hover,.moregames img:hover,.widgetimage,.gravatar img {
+  border:2px solid #c00;
+}
+
+#gamelist,.gamebox,.sidebar ul {
+  border:1px solid #fe846f;
+}
+
+#gamelist h1,.gamebox h1,.gamebox h2 {
+  background-image:url(../images/bg_cat_red.png);
+  background-repeat:no-repeat;
+  background-position:right;
+}
+
+.cat_link a,ol.commentlist li div.reply a {
+  color:#504945;
+}
+
+.single_game,.related {
+  color:#504945;
+  background:#fff url(../images/bg_post.jpg) repeat-x;
+  border:1px solid #ccc;
+}
+
+.related ul li a:link,.related ul li a:visited,.widgets a {
+  color:#222;
+}
+
+.sidebar h2,.listi {
+  color:#fff;
+  background:#c00;
+  border:1px solid #6b0f0b;
+}
+
+.sidebar ul li,.sidebar ul li ul li {
+  border-bottom:1px dotted #FFAD9F;
+}
+
+.userinfo,fieldset#loginBox {
+  color:#535353;
+}
+
+.post h2 a,.post h2 a:link,.post h2 a:visited,.post h2 a:hover {
+  color:#354151;
+  background-color:transparent;
+}
+
+.breadcrumb,h3#comments,h3#pingbacks {
+  border:1px solid #DEDCDD;
+  color:#444;
+  background:#fff;
+}
+
+#commentform input,#commentform textarea {
+  background:#F4F4F4;
+  border:1px solid #DEDCDD;
+  color:#444;
+}
+
+#myslides,.stepcarousel {
+  background:#DF374E;
+}
+
+#content .fullcontent  {
+  color: #504945;
+  border: 1px solid #cc0000;
+}
+
+#sortable-game-box img  {
+  border: 2px solid #ccc;
+}
+
+#sortable-game-box img:hover  {
+  border-color: #cc0000;
+}
+
+#hall-of-fame h2, #sortable-game-box h2, #promo-contests h2  {
+  color: #cc0000;
+  background-image: url(../images/bg_cat_red.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#hall-of-fame ul li  {
+  border: 2px solid #E9E9E9;
+  background-color: #F4F4F4;
+}
+
+#hall-of-fame .name, #hall-of-fame .name a, #sortable-game-box a  {
+  color: #7B2D6F;
+}
+
+#hall-of-fame .plays  {
+  color: #8A8A8A;
+}
+
+#hall-of-fame .highscores  {
+  color: #333;
+}
+
+#promo-contests ul li .thumb  {
+  border: 2px solid #E38FD6;
+}
