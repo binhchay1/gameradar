@@ -147,6 +147,15 @@ if ('enable' == get_option('fungames_mobile') && wp_is_mobile()) {
 
       <?php fungames_navigation(); ?>
 
+      <?php $category = get_category(get_query_var('cat'));
+      $cat_id = $category->cat_ID;
+      $result = $wpdb->get_results("SELECT * FROM wp_category_custom WHERE category_id = $cat_id");
+      if (!empty($result)) {
+      ?>
+      <?php } ?>
+      <div id="content-footer" class="rounded bg-white">
+        <?php echo html_entity_decode($result[0]->content) ?>
+      </div>
     <?php else : ?>
       <h1 class="title"><?php esc_html_e("Not Found", "fungames"); ?></h1>
       <p><?php esc_html_e("Sorry, but you are looking for something that isn't here.", "fungames"); ?></p>

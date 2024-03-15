@@ -2626,3 +2626,28 @@ div.bbp-template-notice.info {
   display: flex;
   margin-top: 20px
 }
+
+#content-footer {
+  font-size: 14px;
+  padding: 1%;
+  overflow: auto;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.description_homepage {
+  padding: 15px;
+  background-color: #fff;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+
+.description_homepage ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.description_homepage a {
+  color: #0578AD;
+}

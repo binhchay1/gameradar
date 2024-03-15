@@ -142,25 +142,9 @@ $query = new WP_Query($args);
       ?>
 
 <?php get_sidebar(); ?>
-<style>
-  .description_homepage {
-    padding: 15px;
-    background-color: #fff;
-    margin: 0 10px;
-    border-radius: 10px;
-  }
 
-  .description_homepage ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  .description_homepage a {
-    color: #0578AD;
-  }
-</style>
 <?php $description_homepage = get_option('description_homepage') ?>
 <div class="description_homepage">
-  <?php echo $description_homepage ?>
+  <?php echo html_entity_decode($description_homepage) ?>
 </div>
 <?php get_footer(); ?>
