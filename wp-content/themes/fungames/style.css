@@ -1595,8 +1595,6 @@ ul.bxslider {
 .bx-wrapper .bx-pager .bx-pager-item,
 .bx-wrapper .bx-controls-auto .bx-controls-auto-item {
   display: inline-block;
-  *zoom: 1;
-  *display: inline;
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a {
@@ -1827,7 +1825,6 @@ ul.bxslider {
   vertical-align: middle;
   box-sizing: border-box;
   display: inline-block;
-  *display: inline;
   /*IE ONLY*/
   zoom: 1;
   border: 1px solid #ccc;

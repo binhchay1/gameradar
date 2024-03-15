@@ -39,7 +39,7 @@ $query = new WP_Query($args);
     ?>
 
       <article class="games" style="margin-left: 30px">
-        <a href="<?php get_permalink($post->ID) ?>" data-hasqtip="27" oldtitle="<?php echo $post->post_title ?>" title="">
+        <a href="<?php echo get_permalink($post->ID) ?>" data-hasqtip="27" oldtitle="<?php echo $post->post_title ?>" title="">
           <div class="thumb">
             <div class="play">
               <span class="icon icon-link"></span>
