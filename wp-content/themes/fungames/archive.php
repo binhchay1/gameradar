@@ -62,7 +62,7 @@ if ('enable' == get_option('fungames_mobile') && wp_is_mobile()) {
           $img_url = get_post_meta($post_id, 'mabp_thumbnail_url');
         ?>
 
-          <article class="games" style="margin-left: 30px">
+          <article class="games" style="margin-left: 10px; margin-top: 20px">
             <a href="<?php echo get_permalink($post_id) ?>" data-hasqtip="27" oldtitle="<?php echo get_the_title($post_id) ?>" title="">
               <div class="thumb">
                 <div class="play">
