@@ -45,22 +45,26 @@
   </ul>
 </div>
 
-<style>
-  .list-category-ingame {
-    background: #fff;
-    border: 1px solid #DEDCDD;
-    padding: 15px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: space-between;
-  }
+<section>
+  <h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">Related category</h3>
+  <div class="top-cate-homepage">
+    <div class="list-top-cate">
+      <?php
+      $cat_id = get_the_category()[0]->term_id;
+      $exclude = array($cat_id);
+      $cat_list = array();
 
-  .list-category-ingame a {
-    margin-left: 20px;
-  }
-</style>
-<div class="list-category-ingame">
-  <?php wp_list_categories(['show_count' => 0, 'style' => '<div>']); ?>
-</div>
+      foreach (get_categories() as $cat) {
+        if (!in_array($cat->term_id, $exclude) and $cat->name != 'TOP DOWNLOAD') {
+          $cat_list[] = '<a href="' . esc_url(get_category_link($cat->term_id)) .
+            '"><div class="in-list-top-cate">' . $cat->name . '</div></a>';
+        }
+      }
+
+      echo implode(' ', $cat_list);
+      ?>
+    </div>
+  </div>
+</section>
 
 <?php wp_reset_query(); ?>

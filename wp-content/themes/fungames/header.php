@@ -64,14 +64,15 @@
     <div id="top" <?php echo $header_bg_style; ?> style="padding: 10px">
 
       <div class="blogname" style="display: flex;">
+
+        <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>">
+          <?php fungames_logo(); ?>
+        </a>
         <?php if (is_front_page() && is_home()) { ?>
           <?php
           // Generate dynamic heading for SEO
           $h1Homepage = get_option('h1_homepage');
           ?>
-          <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>">
-            <?php fungames_logo(); ?>
-          </a>
 
           <h1><?php echo $h1Homepage ?></h1>
         <?php } ?>
@@ -84,9 +85,6 @@
           $result = $wpdb->get_results("SELECT * FROM wp_category_custom WHERE category_id = $cat_id");
           if (!empty($result)) {
           ?>
-            <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>">
-              <?php fungames_logo(); ?>
-            </a>
 
             <h1><?php echo $result[0]->title ?></h1>
         <?php }
